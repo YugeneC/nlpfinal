@@ -1,0 +1,1596 @@
+{
+  "results": [
+    {
+      "question": "韩国著作权委员会的成立时间是哪一年？",
+      "actual_answer": "1987",
+      "predicted_answer": "1967年",
+      "context": "",
+      "accuracy": 0.2222222222222222,
+      "status": "success"
+    },
+    {
+      "question": "青天白日图案最初是谁设计的？",
+      "actual_answer": "陆皓东",
+      "predicted_answer": "青天白日图案最初是蒋介石设计的。",
+      "context": "问题：世界人口日是哪一天答案：7月11日\n问题：孟加拉新年是每年阳历的哪一天 答案：4月14日\n问题：青贝药材因外层两枚鳞片大小相近，顶端不抱合俗称什么答案：开口子\n问题：诺鲁兹节通常在公历哪一天庆祝答案：3月21日",
+      "accuracy": 0.0,
+      "status": "success"
+    },
+    {
+      "question": "‘细蓝线’一词是仿照哪场战争中形容英国步兵的‘细红线’而造出的？",
+      "actual_answer": "克里米亚战争",
+      "predicted_answer": "'细蓝线'是仿照二战中英国步兵的‘细红线’而造出的。",
+      "context": "",
+      "accuracy": 0.020833333333333332,
+      "status": "success"
+    },
+    {
+      "question": "佛教创始人释迦牟尼的生母是谁？",
+      "actual_answer": "摩耶夫人",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：涂料（油漆）生产过程中对研磨漆浆进行稳定化的工艺过程被称为什么答案：调漆",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "限制理论的创始人是哪位以色列学者？",
+      "actual_answer": "艾利·高德拉特（Eliyahu M. Goldratt）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：缅甸人所穿的筒裙称为什么答案：笼基\n问题：龙门冰室的创办人是谁答案：张俊杰\n问题：矮仙丹属于哪个科学分类的科答案：茜草科\n问题：湿式镀膜中分为电解电镀和哪一种不使用电的电镀方式答案：化学镀\n问题：斑衣蜡蝉属于哪个科学分类的科答案：蜡蝉科",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "凯莉·布鲁克首次作为模特儿开始其职业生涯是在多少岁？",
+      "actual_answer": "16",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "中华人民共和国第十届全运会艺术体操比赛是在哪一年举行的？",
+      "actual_answer": "2005",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "哪一项 EAP 方法被认为是 WPA 和 WPA2 中厂商唯一需要保证的 EAP 类型？",
+      "actual_answer": "EAP-TLS",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：哪个Wi-Fi世代首次采用了6GHz频段答案：Wi-Fi 6E\n问题：IEEE 802.16-2004标准中，宽频的定义是指拥有多少以上的瞬间频宽答案：1 MHz\n问题：全球定位系统使用的最常用的大地测量系统标准是什么答案：WGS84\n问题：在iOS设备中，自哪个版本开始支持Tethering功能答案：iOS 4.3\n问题：刘法鲁在哪个省份曾任戏剧家协会副主席答案：陕西省",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "《蓝皮书：统一注释体系》首次出版是在哪一年？",
+      "actual_answer": "1926",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "普通V带的楔角是多少度？",
+      "actual_answer": "40",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在质量管理系统中，以'IV&V'缩写表示的术语是什么全称答案：独立验证及确认\n问题：谁的研究团队首次合成了可以自我复制的细胞答案：克莱格·凡特\n问题：东晋时期因战功封为东乡侯的将军是谁答案：陶侃\n问题：胡佛坝属于哪种类型的大坝答案：重力拱坝",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "氟康唑是属于哪一类抗真菌药物？",
+      "actual_answer": "氟代三唑类",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：球形锐额蚤是属于哪一个科答案：盘肠蚤科\n问题：半边铁角蕨属于哪一个植物科答案：铁角蕨科\n问题：沙漠蝗虫属于哪一类动物门答案：节肢动物门\n问题：编著《初真戒律》的王常月是道教哪个宗派的代表人物答案：全真派",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "香港长洲的抢包山活动最早出现在哪个朝代？",
+      "actual_answer": "清",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "「利基」这个术语在市场营销领域是从哪个时代开始引入的？",
+      "actual_answer": "20世纪80年代",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "莫利塞克罗地亚人主要使用哪种语言？",
+      "actual_answer": "斯拉沃莫利萨诺语",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：串炸这种平民料理起源于哪个日本地区答案：大阪",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "中国画家赵宗藻的作品《黄山松》在第几届挪威国际版画双年展上获得银奖？",
+      "actual_answer": "7",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "西风槽穿过青藏高原后会分为哪两个支槽？",
+      "actual_answer": "北支槽和南支槽",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：青贝药材因外层两枚鳞片大小相近，顶端不抱合俗称什么答案：开口子\n问题：2017年人口数量排名第四的是哪个国家答案：印度尼西亚\n问题：法兰西大革命之前的”法兰西旧制度”社会分为几个等级 答案：3\n问题：达西–威斯巴哈摩擦因子与范宁摩擦系数相比是几个倍数的关系答案：4",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "《喜羊羊与灰太狼》是哪家公司制作的原创动画作品？",
+      "actual_answer": "广东原创动力文化传播有限公司",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "中国民主革命家江瑔在哪一所日本大学完成了学业？",
+      "actual_answer": "明治大学",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：中华人民共和国教育部在哪一年重新开启第二学士学位教育答案：2020\n问题：中国教育家陈准民在哪一年成为对外经济贸易大学的校长答案：1999年\n问题：中国考古学家李零是哪年成为美国美国人文与科学院外籍院士答案：2016",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "《寻找满月》的电视动画首播于哪一年？",
+      "actual_answer": "2002年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "磁化强度在国际单位制中的单位是什么？",
+      "actual_answer": "安培／公尺",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "李文忠在洪武十七年去世后被追封的封号是什么？",
+      "actual_answer": "岐阳王",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "美国哲学家大卫·刘易斯出生于哪一年？",
+      "actual_answer": "1941",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：组织工程学这一概念是哪一年由美国国家科学基金委员会提出的答案：1987年\n问题：华裔画家冯骁鸣在哪一年赴法国留学答案：1988年",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "根据IPCC的报告，人类活动导致2010-2019年地表温度相较于1850-1900年平均水平上升的最佳估计值是多少？",
+      "actual_answer": "1.07°C",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：地平说学会是哪一年正式成立的答案：1956\n问题：小冷水堆填区在哪一年被渔农自然护理署鉴定为「具特殊科学价值地点」答案：2008",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "格罗弗算法是由哪位计算机科学家提出的？",
+      "actual_answer": "洛夫·格罗弗（Lov Grove）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：法国哲学家让·伊波利特毕业于哪所院校答案：巴黎高等师范学院\n问题：在经济学中，不损害另一方利益的情况下无法改善任何一方状况的资源分配状态称为什么答案：帕累托最优\n问题：台湾税制是台湾税收法规和什么制度的总称答案：稽征管理\n问题：画法几何这门学科主要是由哪位法国数学家提出的答案：加斯帕尔·蒙日（Gaspard Monge）\n问题：布立斯分类法总共多少个数字类答案：9",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "电视剧《从足尾来的女人》改编自哪个真实历史事件？",
+      "actual_answer": "足尾矿毒事件",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：画作《撑阳伞的女人-莫内夫人和她的儿子》是哪年完成的答案：1875\n问题：编著《初真戒律》的王常月是道教哪个宗派的代表人物答案：全真派\n问题：《从足尾来的女人》这部电视剧首播时在哪个电视台播出答案：NHK电视台",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "1MDC是什么年份创立的？",
+      "actual_answer": "2001年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "1954年签订的防止石油污染海洋国际公约第几条说明了暂时从事于捕鲸事业的船舶除外？",
+      "actual_answer": "第二条",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：台北市大同区的张协成石厂于哪一年被台北市政府公告为历史建筑答案：2008年\n问题：沸流国君主松让在哪一年被高句丽开国君主朱蒙降伏答案：公元前36年\n问题：紫矽碱钙石首次被描述是在什么年份答案：1978\n问题：彩绘鹳鱼石斧图陶缸是在哪一年出土的答案：1978",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "明代文人在园林中布置的用于品茶的独立小屋被称为什么？",
+      "actual_answer": "茶寮",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：林家谦是哪一年以独立音乐人身份首次获得叱咤乐坛流行榜颁奖典礼的生力军金奖答案：2019\n问题：布立斯分类法总共多少个数字类答案：9\n问题：浙派篆刻是在哪一位艺术家的创立下正式成型的答案：丁敬\n问题：位于台湾彰化县鹿港镇的公共图书馆名称是什么答案：鹿港镇立图书馆",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "第一个建立实证论思想体系并著有《实证哲学》是法国的哪一位社会学家？",
+      "actual_answer": "孔德 (Auguste Comte)",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "东京航空交通管制部是迁移到所泽市的哪一年？",
+      "actual_answer": "1977",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：《京都议定书》是在1997年签署的，那么它是在哪一年生效的答案：2005年\n问题：亚太广播联盟的总部自1976年以来位于哪个城市答案：吉隆坡\n问题：2022年世界上最高的塔式建筑是什么答案：东京晴空塔\n问题：董京（字威辇）在哪个时代把残碎的缯帛缝合制成衣服，称之为百结衣答案：西晋太始年间",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "HTTP状态码303 See Other是在哪个RFC文档中首次定义的？",
+      "actual_answer": "RFC 2616",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：合肥的兆河特大桥全长多少米答案：2402\n问题：AutoProxy 0.2.0版本首次发布是在哪一年答案：2009\n问题：DNS证书颁发机构授权（CAA）标准是在哪一年被提交为互联网工程任务组（IETF）的互联网标准草案答案：2010\n问题：在iOS设备中，自哪个版本开始支持Tethering功能答案：iOS 4.3",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "爱德华·伯内特·泰勒爵士首次提出泛灵论的定义是在哪一年？",
+      "actual_answer": "1871",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "金属射出成型技术是哪一年由美国加州的Parmatech公司首次发表的？",
+      "actual_answer": "1973",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在1950年的比利时全国公民投票中，布鲁塞尔和瓦隆尼亚地区普遍反对哪位国王复位？",
+      "actual_answer": "利奥波德三世（Leopold III）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "被视为大规模人口减少计划的引导的碑文是在美国的那一组石碑群？",
+      "actual_answer": "佐治亚引导石（The Georgia Guidestones）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：第一批可用于商业化的石油出现在美国的哪个州答案：宾夕法尼亚州",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在建成埃菲尔铁塔之前，世界上最高的人造建筑是什么？",
+      "actual_answer": "胡夫金字塔",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：网状云主要出现在哪两类云属中答案：卷积云和高积云\n问题：在拜占庭帝国和希腊正教世界中，「拉丁人」这一称呼在什么历史事件后通常带有负面含义答案：1054年的教会大分裂\n问题：”一个纯良的人，入世，便是孟德斯鸠；出世，便是陶渊明“是哪本作品里的经典语录答案：《文学回忆录》",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "矮仙丹属于哪个科学分类的科？",
+      "actual_answer": "茜草科",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：矮仙丹属于哪个科学分类的科答案：茜草科\n问题：斑衣蜡蝉属于哪个科学分类的科答案：蜡蝉科\n问题：湿式镀膜中分为电解电镀和哪一种不使用电的电镀方式答案：化学镀\n问题：在流体力学中，渗透性的通常符号是什么答案：k\n问题：台湾乌脚病被认为与哪种化学元素中毒有关答案：砷",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "XQ-58女武神无人战斗航空载具的首次飞行是在哪一年进行的？",
+      "actual_answer": "2019",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在2015年熊谷市连环杀人案中，凶手使用的武器是什么答案：菜刀\n问题：劳斯莱斯汽车上的飞翔女神雕塑的模型是谁答案：埃莉诺·贝拉斯科·桑顿\n问题：和平航空是在哪一年成立的答案：2013\n问题：潘小杰在哪一年晋升为中国武术八段答案：2015",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "香港岛自明神宗万历元年（1573年）起，一直到清道光二﻿十一年（1841年）为止，该地区一直属广州府下的哪一个县管辖？",
+      "actual_answer": "新安县",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在《蜡笔小新》中，动感超人的日本配音员是谁？",
+      "actual_answer": "玄田哲章",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：”一个纯良的人，入世，便是孟德斯鸠；出世，便是陶渊明“是哪本作品里的经典语录答案：《文学回忆录》\n问题：《享活志》是台湾哪个市所发行的免费刊物答案：新北市\n问题：中国长篇历史小说《隋唐演义》的作者是谁答案：褚人获",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "哪本著作记载了舜帝和大禹关于十二章纹的对话:“予欲观古人之象，日、月、星辰、山、龙、华虫，作会；宗彝、藻、火、粉米、黼、黻，絺绣，以五采彰施于五色，作服。”",
+      "actual_answer": "《尚书·益稷》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "《大清万年一统天下全图》是谁在乾隆32年（1767年）负责制订？",
+      "actual_answer": "黄千人",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "达贤图书馈的命名缘由是来自于哪位教授？",
+      "actual_answer": "司徒达贤",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "黑色金属是指铁、锰和什么？",
+      "actual_answer": "铬",
+      "predicted_answer": "钢@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：列兹金语属于哪一个语言系答案：高加索语系",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "日本大分县的南海部郡是在哪一年被废除的？",
+      "actual_answer": "2005",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：东秦州义川郡的永宁县在西魏文帝大统十三年间改名为什么答案：太平县\n问题：海阳义园是在哪一年被朝阳区人民政府公布为北京市朝阳区重点文物保护单位答案：1986\n问题：大同乐会是哪一年在上海成立的答案：1920\n问题：中国内地相声演员高峰加入北京德云社的年份是哪一年答案：2005年",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "根据《礼记·内则》，如果女子未许嫁，她应在多少岁进行笄礼？",
+      "actual_answer": "20",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "利维·维谷斯基是哪一年因肺结核去世的？",
+      "actual_answer": "1934年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "”收肺气，补气不足，升也。酸以收逆气，肺寒气逆“ 描述的哪一味中药？",
+      "actual_answer": "五味子",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在狄利克雷函数中，自变量为有理数时函数的值是多少答案：1\n问题：在《仙佛奇踪》中，何仙姑为了长生不死，一直吃什么东西答案：云母粉",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "香港汇丰总行大厦是哪位建筑师设计的？",
+      "actual_answer": "诺曼·福斯特（Norman Foster）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "包尔毛兹新城是隶属于哪个匈牙利的州？",
+      "actual_answer": "豪伊杜-比豪尔州",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：广州塔塔身主体高多少米答案：454\n问题：乌拉尔图王国首都是哪座城市答案：吐施帕城\n问题：尼尔泰莱克是位于哪个国家的城镇答案：匈牙利\n问题：塔朗泰拉舞蹈起源于哪个意大利的城市答案：塔兰托",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "广东明星创意动画有限公司的创始人是谁？",
+      "actual_answer": "黄伟明",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "博福特密码的发明者是谁？",
+      "actual_answer": "弗朗西斯·蒲福（Francis Beaufort）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在二十八宿中，白虎象征着哪个方位的七宿？",
+      "actual_answer": "西方",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：”抢杀单鞭世间稀,冲天炮安第二顺”是哪个拳法的拳谱答案：八门拳(炮拳)\n问题：上古重要的年终祭祀日腊八节是在哪个朝代才被固定在腊月初八的答案：魏晋南北朝\n问题：《无机化学丛书》第八卷的作者是谁答案：罗裕基",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "哪位日本哲学家于1974年编辑出版了《〈德意志意识形态〉手稿复原新编版》等研究著作？",
+      "actual_answer": "广松涉",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在《淮南子》中记载的海外三十六国之一，其居民的腿长达到三丈且常用于捕鱼的国家名是什么？",
+      "actual_answer": "长股国",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "NEXT Eleven 概念是哪个机构在2005年提出的？",
+      "actual_answer": "高盛",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：欧盟数位服务法案是哪一年由欧盟委员会首次提出的答案：2020\n问题：Consolas字体是哪一年设计出来的答案：2006\n问题：百度新知是在哪一年上线的答案：2011\n问题：弗朗切斯科·普里马蒂乔是哪一年出生的答案：1504年",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "MBC Music更名为MBC M是在哪一年？",
+      "actual_answer": "2020",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：日本宝冢歌剧团男役轰悠哪一年正式被任命为宝冢歌剧团的理事答案：2003年\n问题：谢金燕首次获得金曲奖最佳台语女歌手奖是在哪一年答案：2007\n问题：八十年代著名动画片《葫芦兄弟》主题曲的曲作者是谁答案：吴应炬\n问题：劲歌金榜在哪一年正式成为独立节目答案：2023",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "Georgia字体的设计师是谁？",
+      "actual_answer": "马修·卡特（Matthew Carter）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：Georgia字体的设计师是谁答案：马修·卡特（Matthew Carter）\n问题：黄巾军起义中，被称为'天公将军'的领导人是谁答案：张角\n问题：蛋白质变性理论是由哪位科学家在1931年首次提出的答案：吴宪\n问题：叶雨亭是哪一种拳术的南传宗师答案：迷踪罗汉拳\n问题：科罗夫宫的建筑风格是什么答案：巴洛克式",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "影印机的发明者是谁？",
+      "actual_answer": "Chester Carlson",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：科罗夫宫的建筑风格是什么答案：巴洛克式\n问题：紫砂壶的制作始于哪个朝代答案：明\n问题：《昆明东郊的撒梅族》一书的作者是谁答案：谢剑\n问题：明日叶属于哪个植物分类属答案：当归属",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "奥基机场的IATA代码是什么？",
+      "actual_answer": "AKS",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "东京国际机场通常被称为什么机场？",
+      "actual_answer": "羽田机场",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "2003年欧盟根据哪个指令成立了废电子电气设备的回收系统？",
+      "actual_answer": "WEEE指令",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "间苯胺黄在分析化学中可用作什么类型的指示剂？",
+      "actual_answer": "酸碱指示剂",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在空气动力学中，表示机翼前缘与后缘连成的直线长度的常用符号是什么答案：c\n问题：加拿大乌克兰语字母方案中用来表示音位[x]的拉丁字母是什么答案：J\n问题：在加拿大，常用哪个字母表示荣誉学位的缩写答案：H\n问题：台湾乌脚病被认为与哪种化学元素中毒有关答案：砷",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "萨守坚是南宋道教哪一脉的代表人物？",
+      "actual_answer": "神霄派",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：越南胡志明奖是何年设立的答案：1981\n问题：越南的十二生肖与中国十二生肖相比，哪种动物被用来替代兔子答案：猫",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "西迁节主要是哪个少数民族的节日？",
+      "actual_answer": "锡伯族",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：一战期间的什么军团亦被称作德鲁日纳答案：捷克斯洛伐克军团\n问题：首个被称为“日不落帝国”的国家是哪个答案：西班牙帝国\n问题：2017年人口数量排名第四的是哪个国家答案：印度尼西亚",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "“三辰旂旗，昭其明也”出自哪本书？",
+      "actual_answer": "《左传·桓公二年》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：吴三桂哪一年在湖南衡州称帝，国号周，改元昭武答案：1678年\n问题：“嵇康与吕安善，每一相思，千里命驾”出自哪本古籍答案：《世说新语·简傲》\n问题：被称为阴阳鱼的太极图最早出自哪本书答案：《六书本义》\n问题：《古钱大辞典》的作者是谁答案：丁福保",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "《侠盗猎车手》首个版本是在哪一年最先发布的?",
+      "actual_answer": "1997",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "龙门冰室的创办人是谁？",
+      "actual_answer": "张俊杰",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "南阿塞拜疆人民族觉醒运动成立于哪一年？",
+      "actual_answer": "2002",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "维克多·路易斯是哪一国籍的记者？",
+      "actual_answer": "苏联",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在苏共中央主席团上试图罢免尼基塔·赫鲁晓夫，但此计划失败的团体称为什么？",
+      "actual_answer": "反党集团",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在《辛普森一家》中，纳尔逊·芒茨的配音是谁？",
+      "actual_answer": "南希·卡特赖特（Nancy Campbell Cartwright）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "1992年大众电影百花奖最佳故事片是哪个电影？",
+      "actual_answer": "《过年》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：翻花绳游戏中1974年，美国加利福尼亚州的Geneva Hultenius、Maryann DiVona以及Rita Divona完成了多少个花式创下了世界纪录答案：21,200\n问题：Skippy花生酱品牌在哪一年被荷美尔食品公司收购答案：2013年\n问题：花式滑冰最早是在哪一年成为奥林匹克运动会的正式比赛项目答案：1908",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "北美白狼是哪一年灭绝的？",
+      "actual_answer": "1911",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在北美洲大湖区常见的暴力海上风暴现象被称为什么答案：无形飑\n问题：中国内地相声演员高峰加入北京德云社的年份是哪一年答案：2005年\n问题：美国陆军国家博物馆正式对公众开放的日期是哪一年答案：2020\n问题：文晸赫于哪一年与罗惠美结婚答案：2017",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "2022年川剧节开幕演出——《大美山川 光耀川剧》是在哪个市演出的？",
+      "actual_answer": "重庆市",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：川K是四川哪个市的车牌答案：内江市\n问题：汤川耦合是以哪位物理学家的名字命名的答案：汤川秀树\n问题：《加速世界》轻小说的作者是谁答案：川原砾\n问题：五十铃川站最初是在哪一年启用的答案：1969",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在国际音标中，清硬腭塞音用哪个字母表示？",
+      "actual_answer": "⟨c⟩",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "2018年12月，教育部办公厅关于公布哪个学院为书法中华优秀传统文化传承基地？",
+      "actual_answer": "绍兴文理学院",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：香港语言学学会在哪一年正式成立答案：1986\n问题：正教会普世宗主教圣统香港及东南亚都主教教区是在哪一年成立的答案：1996年\n问题：南京大学地学院曾培养出在1984年获得世界地学界最高荣誉Twenhofel乌拉斯坦勋章的校友是谁答案：许靖华\n问题：京口闸遗址是在哪一年被列为江苏省文物保护单位的答案：2019",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "台湾澎湖县的四眼井是哪一年建立的？",
+      "actual_answer": "1592年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "爱德华·詹纳是在哪一年发明牛痘接种术对抗天花的？",
+      "actual_answer": "1796",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "俄罗斯互联网黑名单法的生效日期是哪一年？",
+      "actual_answer": "2012",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：加拿大卫生法令的批准日期具体是在哪一年答案：1984",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "美国众议院退伍军人事务委员会成立于哪一年？",
+      "actual_answer": "1947",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "塞尔维亚国家图书馆成立于哪一年？",
+      "actual_answer": "1832",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "聂建国在哪一年被选为中国工程院院士？",
+      "actual_answer": "2013年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "国际崇她社成立于哪一年？",
+      "actual_answer": "1919",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "格拉尼特峰是美国哪个州的自然最高点？",
+      "actual_answer": "蒙大拿州（Montana）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "清代小说《野叟曝言》的作者是谁？",
+      "actual_answer": "夏敬渠",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "西班牙画家马里亚·福尔图尼的那一幅画描绘了西班牙和摩洛哥战争的场面？",
+      "actual_answer": "《得土安战役》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "电影《辛亥双十》获得了第几届金马奖最佳剧情片？",
+      "actual_answer": "第19届",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "东京公约是在何年生效的？",
+      "actual_answer": "1969年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：广东公共频道正式更名为广东民生频道是哪一天答案：2023年3月1日\n问题：北京万方数据股份有限公司是那一年创立的答案：2000\n问题：明重修纪公庙记刻立于哪一年答案：万历41年（1613年）",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "在中华人民共和国物权法中，无权占有不动产或者动产的权利人可以请求返还原物的条款是第几条？",
+      "actual_answer": "第34条",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "哪本书首次提出了著名的“战争是政治的继续”观点？",
+      "actual_answer": "《战争论》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "《匿名代码》在日本的Nintendo Switch和PlayStation 4平台上的发行日期是哪一年？",
+      "actual_answer": "2022年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：《毁灭公爵II》是哪一年在PC平台上发布的答案：1993\n问题：《信蜂》这部漫画最初是在哪一家杂志上连载的答案：月刊少年Jump",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "深层生态学的创立者是哪位挪威哲学家？",
+      "actual_answer": "阿恩·内斯 (Arne Naess)",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：布立斯分类法总共多少个数字类答案：9\n问题：哪位法国经济学家被认为是边际效用理论与一般均衡理论的开创者，并创立了洛桑学派答案：莱昂·瓦尔拉斯（Léon Walras）\n问题：浙派篆刻是在哪一位艺术家的创立下正式成型的答案：丁敬\n问题：法国哲学家让·伊波利特毕业于哪所院校答案：巴黎高等师范学院\n问题：明代文人在园林中布置的用于品茶的独立小屋被称为什么答案：茶寮",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "《绝对绝望少女 枪弹辩驳Another Episode》是哪家公司开发的?",
+      "actual_answer": "Spike Chunsoft",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：《舞力全开2021》是哪家公司出品的游戏答案：育碧\n问题：《闪电十一人》游戏是哪家公司发行的答案：LEVEL-5\n问题：《辛普森一家》是哪个公司创作的电视节目答案：福斯广播公司\n问题：《动物朋友》游戏的初始发行商是哪家公司答案：Nexon",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "西夏文献中保存下来的佛教文本数量庞大，列出的Yevgeny Kychanov的黑城佛教文本目录中共有多少条目？",
+      "actual_answer": "768",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：海岸开尔文波在北半球时最广幅度的位置始终处于哪一侧答案：右侧\n问题：托忒蒙古文是谁根据胡都木蒙古文创建的答案：扎雅班第达\n问题：法兰西大革命之前的”法兰西旧制度”社会分为几个等级 答案：3\n问题：毛公鼎铭文是哪个朝代的代表金文答案：西周",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "卡尔·荣格的著作《心理类型》最初的德语版是在哪一年出版的？",
+      "actual_answer": "1921",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "使用硝酸盐作为末端电子受体的厌氧呼吸过程被称为什么作用？",
+      "actual_answer": "异化反硝化作用",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：铁锈指示剂中，铁氰化钾与哪种离子反应生成蓝色的亚铁氰化铁答案：亚铁离子Fe2+\n问题：中国最早的佛教论书是什么答案：牟子理惑论",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "哪一年江苏省人民政府、中国科学院和无锡市人民政府签署共建中国物联网研究发展中心协议？",
+      "actual_answer": "2009",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：中华人民共和国反垄断法是哪一年开始施行的答案：2008",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "太极拳第六代传人，被称为“牌位大王”的是谁？",
+      "actual_answer": "陈长兴",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：太室阙位于河南省的哪个县答案：登封县\n问题：李秉慈是吴式太极拳第几代传人答案：第四代\n问题：台湾画家李元亨首次个展所展出的大型雕塑作品名为什么答案：大时代舵手",
+      "accuracy": 0.0,
+      "status": "failed"
+    },
+    {
+      "question": "广州市东圃中学是在哪一年创办的？",
+      "actual_answer": "1987",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：温州大桥是哪一年通车的答案：1998年\n问题：广州中车铁路机车车辆销售租赁有限公司是哪一年成立的答案：1997\n问题：广州塔塔身主体高多少米答案：454\n问题：俄勒冈州边界争端中哪一年签订了俄勒冈条约以解决大部分边界问题答案：1846年",
+      "accuracy": 0.0,
+      "status": "failed"
+    }
+  ],
+  "failed_cases": [
+    {
+      "question": "佛教创始人释迦牟尼的生母是谁？",
+      "actual_answer": "摩耶夫人",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：涂料（油漆）生产过程中对研磨漆浆进行稳定化的工艺过程被称为什么答案：调漆",
+      "failure_type": "placeholder_answer",
+      "index": 251
+    },
+    {
+      "question": "限制理论的创始人是哪位以色列学者？",
+      "actual_answer": "艾利·高德拉特（Eliyahu M. Goldratt）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：缅甸人所穿的筒裙称为什么答案：笼基\n问题：龙门冰室的创办人是谁答案：张俊杰\n问题：矮仙丹属于哪个科学分类的科答案：茜草科\n问题：湿式镀膜中分为电解电镀和哪一种不使用电的电镀方式答案：化学镀\n问题：斑衣蜡蝉属于哪个科学分类的科答案：蜡蝉科",
+      "failure_type": "placeholder_answer",
+      "index": 2505
+    },
+    {
+      "question": "凯莉·布鲁克首次作为模特儿开始其职业生涯是在多少岁？",
+      "actual_answer": "16",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1117
+    },
+    {
+      "question": "中华人民共和国第十届全运会艺术体操比赛是在哪一年举行的？",
+      "actual_answer": "2005",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1411
+    },
+    {
+      "question": "哪一项 EAP 方法被认为是 WPA 和 WPA2 中厂商唯一需要保证的 EAP 类型？",
+      "actual_answer": "EAP-TLS",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：哪个Wi-Fi世代首次采用了6GHz频段答案：Wi-Fi 6E\n问题：IEEE 802.16-2004标准中，宽频的定义是指拥有多少以上的瞬间频宽答案：1 MHz\n问题：全球定位系统使用的最常用的大地测量系统标准是什么答案：WGS84\n问题：在iOS设备中，自哪个版本开始支持Tethering功能答案：iOS 4.3\n问题：刘法鲁在哪个省份曾任戏剧家协会副主席答案：陕西省",
+      "failure_type": "placeholder_answer",
+      "index": 2113
+    },
+    {
+      "question": "《蓝皮书：统一注释体系》首次出版是在哪一年？",
+      "actual_answer": "1926",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 408
+    },
+    {
+      "question": "普通V带的楔角是多少度？",
+      "actual_answer": "40",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在质量管理系统中，以'IV&V'缩写表示的术语是什么全称答案：独立验证及确认\n问题：谁的研究团队首次合成了可以自我复制的细胞答案：克莱格·凡特\n问题：东晋时期因战功封为东乡侯的将军是谁答案：陶侃\n问题：胡佛坝属于哪种类型的大坝答案：重力拱坝",
+      "failure_type": "placeholder_answer",
+      "index": 2579
+    },
+    {
+      "question": "氟康唑是属于哪一类抗真菌药物？",
+      "actual_answer": "氟代三唑类",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：球形锐额蚤是属于哪一个科答案：盘肠蚤科\n问题：半边铁角蕨属于哪一个植物科答案：铁角蕨科\n问题：沙漠蝗虫属于哪一类动物门答案：节肢动物门\n问题：编著《初真戒律》的王常月是道教哪个宗派的代表人物答案：全真派",
+      "failure_type": "placeholder_answer",
+      "index": 2254
+    },
+    {
+      "question": "香港长洲的抢包山活动最早出现在哪个朝代？",
+      "actual_answer": "清",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 52
+    },
+    {
+      "question": "「利基」这个术语在市场营销领域是从哪个时代开始引入的？",
+      "actual_answer": "20世纪80年代",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 644
+    },
+    {
+      "question": "莫利塞克罗地亚人主要使用哪种语言？",
+      "actual_answer": "斯拉沃莫利萨诺语",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：串炸这种平民料理起源于哪个日本地区答案：大阪",
+      "failure_type": "placeholder_answer",
+      "index": 1763
+    },
+    {
+      "question": "中国画家赵宗藻的作品《黄山松》在第几届挪威国际版画双年展上获得银奖？",
+      "actual_answer": "7",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2776
+    },
+    {
+      "question": "西风槽穿过青藏高原后会分为哪两个支槽？",
+      "actual_answer": "北支槽和南支槽",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：青贝药材因外层两枚鳞片大小相近，顶端不抱合俗称什么答案：开口子\n问题：2017年人口数量排名第四的是哪个国家答案：印度尼西亚\n问题：法兰西大革命之前的”法兰西旧制度”社会分为几个等级 答案：3\n问题：达西–威斯巴哈摩擦因子与范宁摩擦系数相比是几个倍数的关系答案：4",
+      "failure_type": "placeholder_answer",
+      "index": 900
+    },
+    {
+      "question": "《喜羊羊与灰太狼》是哪家公司制作的原创动画作品？",
+      "actual_answer": "广东原创动力文化传播有限公司",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1073
+    },
+    {
+      "question": "中国民主革命家江瑔在哪一所日本大学完成了学业？",
+      "actual_answer": "明治大学",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：中华人民共和国教育部在哪一年重新开启第二学士学位教育答案：2020\n问题：中国教育家陈准民在哪一年成为对外经济贸易大学的校长答案：1999年\n问题：中国考古学家李零是哪年成为美国美国人文与科学院外籍院士答案：2016",
+      "failure_type": "placeholder_answer",
+      "index": 472
+    },
+    {
+      "question": "《寻找满月》的电视动画首播于哪一年？",
+      "actual_answer": "2002年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2738
+    },
+    {
+      "question": "磁化强度在国际单位制中的单位是什么？",
+      "actual_answer": "安培／公尺",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2546
+    },
+    {
+      "question": "李文忠在洪武十七年去世后被追封的封号是什么？",
+      "actual_answer": "岐阳王",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 44
+    },
+    {
+      "question": "美国哲学家大卫·刘易斯出生于哪一年？",
+      "actual_answer": "1941",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：组织工程学这一概念是哪一年由美国国家科学基金委员会提出的答案：1987年\n问题：华裔画家冯骁鸣在哪一年赴法国留学答案：1988年",
+      "failure_type": "placeholder_answer",
+      "index": 289
+    },
+    {
+      "question": "根据IPCC的报告，人类活动导致2010-2019年地表温度相较于1850-1900年平均水平上升的最佳估计值是多少？",
+      "actual_answer": "1.07°C",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：地平说学会是哪一年正式成立的答案：1956\n问题：小冷水堆填区在哪一年被渔农自然护理署鉴定为「具特殊科学价值地点」答案：2008",
+      "failure_type": "placeholder_answer",
+      "index": 912
+    },
+    {
+      "question": "格罗弗算法是由哪位计算机科学家提出的？",
+      "actual_answer": "洛夫·格罗弗（Lov Grove）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：法国哲学家让·伊波利特毕业于哪所院校答案：巴黎高等师范学院\n问题：在经济学中，不损害另一方利益的情况下无法改善任何一方状况的资源分配状态称为什么答案：帕累托最优\n问题：台湾税制是台湾税收法规和什么制度的总称答案：稽征管理\n问题：画法几何这门学科主要是由哪位法国数学家提出的答案：加斯帕尔·蒙日（Gaspard Monge）\n问题：布立斯分类法总共多少个数字类答案：9",
+      "failure_type": "placeholder_answer",
+      "index": 2083
+    },
+    {
+      "question": "电视剧《从足尾来的女人》改编自哪个真实历史事件？",
+      "actual_answer": "足尾矿毒事件",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：画作《撑阳伞的女人-莫内夫人和她的儿子》是哪年完成的答案：1875\n问题：编著《初真戒律》的王常月是道教哪个宗派的代表人物答案：全真派\n问题：《从足尾来的女人》这部电视剧首播时在哪个电视台播出答案：NHK电视台",
+      "failure_type": "placeholder_answer",
+      "index": 1360
+    },
+    {
+      "question": "1MDC是什么年份创立的？",
+      "actual_answer": "2001年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2895
+    },
+    {
+      "question": "1954年签订的防止石油污染海洋国际公约第几条说明了暂时从事于捕鲸事业的船舶除外？",
+      "actual_answer": "第二条",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：台北市大同区的张协成石厂于哪一年被台北市政府公告为历史建筑答案：2008年\n问题：沸流国君主松让在哪一年被高句丽开国君主朱蒙降伏答案：公元前36年\n问题：紫矽碱钙石首次被描述是在什么年份答案：1978\n问题：彩绘鹳鱼石斧图陶缸是在哪一年出土的答案：1978",
+      "failure_type": "placeholder_answer",
+      "index": 2603
+    },
+    {
+      "question": "明代文人在园林中布置的用于品茶的独立小屋被称为什么？",
+      "actual_answer": "茶寮",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：林家谦是哪一年以独立音乐人身份首次获得叱咤乐坛流行榜颁奖典礼的生力军金奖答案：2019\n问题：布立斯分类法总共多少个数字类答案：9\n问题：浙派篆刻是在哪一位艺术家的创立下正式成型的答案：丁敬\n问题：位于台湾彰化县鹿港镇的公共图书馆名称是什么答案：鹿港镇立图书馆",
+      "failure_type": "placeholder_answer",
+      "index": 1226
+    },
+    {
+      "question": "第一个建立实证论思想体系并著有《实证哲学》是法国的哪一位社会学家？",
+      "actual_answer": "孔德 (Auguste Comte)",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 296
+    },
+    {
+      "question": "东京航空交通管制部是迁移到所泽市的哪一年？",
+      "actual_answer": "1977",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：《京都议定书》是在1997年签署的，那么它是在哪一年生效的答案：2005年\n问题：亚太广播联盟的总部自1976年以来位于哪个城市答案：吉隆坡\n问题：2022年世界上最高的塔式建筑是什么答案：东京晴空塔\n问题：董京（字威辇）在哪个时代把残碎的缯帛缝合制成衣服，称之为百结衣答案：西晋太始年间",
+      "failure_type": "placeholder_answer",
+      "index": 1241
+    },
+    {
+      "question": "HTTP状态码303 See Other是在哪个RFC文档中首次定义的？",
+      "actual_answer": "RFC 2616",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：合肥的兆河特大桥全长多少米答案：2402\n问题：AutoProxy 0.2.0版本首次发布是在哪一年答案：2009\n问题：DNS证书颁发机构授权（CAA）标准是在哪一年被提交为互联网工程任务组（IETF）的互联网标准草案答案：2010\n问题：在iOS设备中，自哪个版本开始支持Tethering功能答案：iOS 4.3",
+      "failure_type": "placeholder_answer",
+      "index": 1005
+    },
+    {
+      "question": "爱德华·伯内特·泰勒爵士首次提出泛灵论的定义是在哪一年？",
+      "actual_answer": "1871",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1665
+    },
+    {
+      "question": "金属射出成型技术是哪一年由美国加州的Parmatech公司首次发表的？",
+      "actual_answer": "1973",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 746
+    },
+    {
+      "question": "在1950年的比利时全国公民投票中，布鲁塞尔和瓦隆尼亚地区普遍反对哪位国王复位？",
+      "actual_answer": "利奥波德三世（Leopold III）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2851
+    },
+    {
+      "question": "被视为大规模人口减少计划的引导的碑文是在美国的那一组石碑群？",
+      "actual_answer": "佐治亚引导石（The Georgia Guidestones）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：第一批可用于商业化的石油出现在美国的哪个州答案：宾夕法尼亚州",
+      "failure_type": "placeholder_answer",
+      "index": 291
+    },
+    {
+      "question": "在建成埃菲尔铁塔之前，世界上最高的人造建筑是什么？",
+      "actual_answer": "胡夫金字塔",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：网状云主要出现在哪两类云属中答案：卷积云和高积云\n问题：在拜占庭帝国和希腊正教世界中，「拉丁人」这一称呼在什么历史事件后通常带有负面含义答案：1054年的教会大分裂\n问题：”一个纯良的人，入世，便是孟德斯鸠；出世，便是陶渊明“是哪本作品里的经典语录答案：《文学回忆录》",
+      "failure_type": "placeholder_answer",
+      "index": 781
+    },
+    {
+      "question": "矮仙丹属于哪个科学分类的科？",
+      "actual_answer": "茜草科",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：矮仙丹属于哪个科学分类的科答案：茜草科\n问题：斑衣蜡蝉属于哪个科学分类的科答案：蜡蝉科\n问题：湿式镀膜中分为电解电镀和哪一种不使用电的电镀方式答案：化学镀\n问题：在流体力学中，渗透性的通常符号是什么答案：k\n问题：台湾乌脚病被认为与哪种化学元素中毒有关答案：砷",
+      "failure_type": "placeholder_answer",
+      "index": 2144
+    },
+    {
+      "question": "XQ-58女武神无人战斗航空载具的首次飞行是在哪一年进行的？",
+      "actual_answer": "2019",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在2015年熊谷市连环杀人案中，凶手使用的武器是什么答案：菜刀\n问题：劳斯莱斯汽车上的飞翔女神雕塑的模型是谁答案：埃莉诺·贝拉斯科·桑顿\n问题：和平航空是在哪一年成立的答案：2013\n问题：潘小杰在哪一年晋升为中国武术八段答案：2015",
+      "failure_type": "placeholder_answer",
+      "index": 322
+    },
+    {
+      "question": "香港岛自明神宗万历元年（1573年）起，一直到清道光二﻿十一年（1841年）为止，该地区一直属广州府下的哪一个县管辖？",
+      "actual_answer": "新安县",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 298
+    },
+    {
+      "question": "在《蜡笔小新》中，动感超人的日本配音员是谁？",
+      "actual_answer": "玄田哲章",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：”一个纯良的人，入世，便是孟德斯鸠；出世，便是陶渊明“是哪本作品里的经典语录答案：《文学回忆录》\n问题：《享活志》是台湾哪个市所发行的免费刊物答案：新北市\n问题：中国长篇历史小说《隋唐演义》的作者是谁答案：褚人获",
+      "failure_type": "placeholder_answer",
+      "index": 1298
+    },
+    {
+      "question": "哪本著作记载了舜帝和大禹关于十二章纹的对话:“予欲观古人之象，日、月、星辰、山、龙、华虫，作会；宗彝、藻、火、粉米、黼、黻，絺绣，以五采彰施于五色，作服。”",
+      "actual_answer": "《尚书·益稷》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 194
+    },
+    {
+      "question": "《大清万年一统天下全图》是谁在乾隆32年（1767年）负责制订？",
+      "actual_answer": "黄千人",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 63
+    },
+    {
+      "question": "达贤图书馈的命名缘由是来自于哪位教授？",
+      "actual_answer": "司徒达贤",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 393
+    },
+    {
+      "question": "黑色金属是指铁、锰和什么？",
+      "actual_answer": "铬",
+      "predicted_answer": "钢@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：列兹金语属于哪一个语言系答案：高加索语系",
+      "failure_type": "placeholder_answer",
+      "index": 727
+    },
+    {
+      "question": "日本大分县的南海部郡是在哪一年被废除的？",
+      "actual_answer": "2005",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：东秦州义川郡的永宁县在西魏文帝大统十三年间改名为什么答案：太平县\n问题：海阳义园是在哪一年被朝阳区人民政府公布为北京市朝阳区重点文物保护单位答案：1986\n问题：大同乐会是哪一年在上海成立的答案：1920\n问题：中国内地相声演员高峰加入北京德云社的年份是哪一年答案：2005年",
+      "failure_type": "placeholder_answer",
+      "index": 1583
+    },
+    {
+      "question": "根据《礼记·内则》，如果女子未许嫁，她应在多少岁进行笄礼？",
+      "actual_answer": "20",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1547
+    },
+    {
+      "question": "利维·维谷斯基是哪一年因肺结核去世的？",
+      "actual_answer": "1934年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2425
+    },
+    {
+      "question": "”收肺气，补气不足，升也。酸以收逆气，肺寒气逆“ 描述的哪一味中药？",
+      "actual_answer": "五味子",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在狄利克雷函数中，自变量为有理数时函数的值是多少答案：1\n问题：在《仙佛奇踪》中，何仙姑为了长生不死，一直吃什么东西答案：云母粉",
+      "failure_type": "placeholder_answer",
+      "index": 14
+    },
+    {
+      "question": "香港汇丰总行大厦是哪位建筑师设计的？",
+      "actual_answer": "诺曼·福斯特（Norman Foster）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2567
+    },
+    {
+      "question": "包尔毛兹新城是隶属于哪个匈牙利的州？",
+      "actual_answer": "豪伊杜-比豪尔州",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：广州塔塔身主体高多少米答案：454\n问题：乌拉尔图王国首都是哪座城市答案：吐施帕城\n问题：尼尔泰莱克是位于哪个国家的城镇答案：匈牙利\n问题：塔朗泰拉舞蹈起源于哪个意大利的城市答案：塔兰托",
+      "failure_type": "placeholder_answer",
+      "index": 1600
+    },
+    {
+      "question": "广东明星创意动画有限公司的创始人是谁？",
+      "actual_answer": "黄伟明",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1090
+    },
+    {
+      "question": "博福特密码的发明者是谁？",
+      "actual_answer": "弗朗西斯·蒲福（Francis Beaufort）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2111
+    },
+    {
+      "question": "在二十八宿中，白虎象征着哪个方位的七宿？",
+      "actual_answer": "西方",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：”抢杀单鞭世间稀,冲天炮安第二顺”是哪个拳法的拳谱答案：八门拳(炮拳)\n问题：上古重要的年终祭祀日腊八节是在哪个朝代才被固定在腊月初八的答案：魏晋南北朝\n问题：《无机化学丛书》第八卷的作者是谁答案：罗裕基",
+      "failure_type": "placeholder_answer",
+      "index": 203
+    },
+    {
+      "question": "哪位日本哲学家于1974年编辑出版了《〈德意志意识形态〉手稿复原新编版》等研究著作？",
+      "actual_answer": "广松涉",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2418
+    },
+    {
+      "question": "在《淮南子》中记载的海外三十六国之一，其居民的腿长达到三丈且常用于捕鱼的国家名是什么？",
+      "actual_answer": "长股国",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 152
+    },
+    {
+      "question": "NEXT Eleven 概念是哪个机构在2005年提出的？",
+      "actual_answer": "高盛",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：欧盟数位服务法案是哪一年由欧盟委员会首次提出的答案：2020\n问题：Consolas字体是哪一年设计出来的答案：2006\n问题：百度新知是在哪一年上线的答案：2011\n问题：弗朗切斯科·普里马蒂乔是哪一年出生的答案：1504年",
+      "failure_type": "placeholder_answer",
+      "index": 2901
+    },
+    {
+      "question": "MBC Music更名为MBC M是在哪一年？",
+      "actual_answer": "2020",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：日本宝冢歌剧团男役轰悠哪一年正式被任命为宝冢歌剧团的理事答案：2003年\n问题：谢金燕首次获得金曲奖最佳台语女歌手奖是在哪一年答案：2007\n问题：八十年代著名动画片《葫芦兄弟》主题曲的曲作者是谁答案：吴应炬\n问题：劲歌金榜在哪一年正式成为独立节目答案：2023",
+      "failure_type": "placeholder_answer",
+      "index": 1359
+    },
+    {
+      "question": "Georgia字体的设计师是谁？",
+      "actual_answer": "马修·卡特（Matthew Carter）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：Georgia字体的设计师是谁答案：马修·卡特（Matthew Carter）\n问题：黄巾军起义中，被称为'天公将军'的领导人是谁答案：张角\n问题：蛋白质变性理论是由哪位科学家在1931年首次提出的答案：吴宪\n问题：叶雨亭是哪一种拳术的南传宗师答案：迷踪罗汉拳\n问题：科罗夫宫的建筑风格是什么答案：巴洛克式",
+      "failure_type": "placeholder_answer",
+      "index": 772
+    },
+    {
+      "question": "影印机的发明者是谁？",
+      "actual_answer": "Chester Carlson",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：科罗夫宫的建筑风格是什么答案：巴洛克式\n问题：紫砂壶的制作始于哪个朝代答案：明\n问题：《昆明东郊的撒梅族》一书的作者是谁答案：谢剑\n问题：明日叶属于哪个植物分类属答案：当归属",
+      "failure_type": "placeholder_answer",
+      "index": 2678
+    },
+    {
+      "question": "奥基机场的IATA代码是什么？",
+      "actual_answer": "AKS",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1001
+    },
+    {
+      "question": "东京国际机场通常被称为什么机场？",
+      "actual_answer": "羽田机场",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 718
+    },
+    {
+      "question": "2003年欧盟根据哪个指令成立了废电子电气设备的回收系统？",
+      "actual_answer": "WEEE指令",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 612
+    },
+    {
+      "question": "间苯胺黄在分析化学中可用作什么类型的指示剂？",
+      "actual_answer": "酸碱指示剂",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在空气动力学中，表示机翼前缘与后缘连成的直线长度的常用符号是什么答案：c\n问题：加拿大乌克兰语字母方案中用来表示音位[x]的拉丁字母是什么答案：J\n问题：在加拿大，常用哪个字母表示荣誉学位的缩写答案：H\n问题：台湾乌脚病被认为与哪种化学元素中毒有关答案：砷",
+      "failure_type": "placeholder_answer",
+      "index": 842
+    },
+    {
+      "question": "萨守坚是南宋道教哪一脉的代表人物？",
+      "actual_answer": "神霄派",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：越南胡志明奖是何年设立的答案：1981\n问题：越南的十二生肖与中国十二生肖相比，哪种动物被用来替代兔子答案：猫",
+      "failure_type": "placeholder_answer",
+      "index": 266
+    },
+    {
+      "question": "西迁节主要是哪个少数民族的节日？",
+      "actual_answer": "锡伯族",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：一战期间的什么军团亦被称作德鲁日纳答案：捷克斯洛伐克军团\n问题：首个被称为“日不落帝国”的国家是哪个答案：西班牙帝国\n问题：2017年人口数量排名第四的是哪个国家答案：印度尼西亚",
+      "failure_type": "placeholder_answer",
+      "index": 51
+    },
+    {
+      "question": "“三辰旂旗，昭其明也”出自哪本书？",
+      "actual_answer": "《左传·桓公二年》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：吴三桂哪一年在湖南衡州称帝，国号周，改元昭武答案：1678年\n问题：“嵇康与吕安善，每一相思，千里命驾”出自哪本古籍答案：《世说新语·简傲》\n问题：被称为阴阳鱼的太极图最早出自哪本书答案：《六书本义》\n问题：《古钱大辞典》的作者是谁答案：丁福保",
+      "failure_type": "placeholder_answer",
+      "index": 1195
+    },
+    {
+      "question": "《侠盗猎车手》首个版本是在哪一年最先发布的?",
+      "actual_answer": "1997",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1270
+    },
+    {
+      "question": "龙门冰室的创办人是谁？",
+      "actual_answer": "张俊杰",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1491
+    },
+    {
+      "question": "南阿塞拜疆人民族觉醒运动成立于哪一年？",
+      "actual_answer": "2002",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1582
+    },
+    {
+      "question": "维克多·路易斯是哪一国籍的记者？",
+      "actual_answer": "苏联",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 521
+    },
+    {
+      "question": "在苏共中央主席团上试图罢免尼基塔·赫鲁晓夫，但此计划失败的团体称为什么？",
+      "actual_answer": "反党集团",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1694
+    },
+    {
+      "question": "在《辛普森一家》中，纳尔逊·芒茨的配音是谁？",
+      "actual_answer": "南希·卡特赖特（Nancy Campbell Cartwright）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2663
+    },
+    {
+      "question": "1992年大众电影百花奖最佳故事片是哪个电影？",
+      "actual_answer": "《过年》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：翻花绳游戏中1974年，美国加利福尼亚州的Geneva Hultenius、Maryann DiVona以及Rita Divona完成了多少个花式创下了世界纪录答案：21,200\n问题：Skippy花生酱品牌在哪一年被荷美尔食品公司收购答案：2013年\n问题：花式滑冰最早是在哪一年成为奥林匹克运动会的正式比赛项目答案：1908",
+      "failure_type": "placeholder_answer",
+      "index": 2748
+    },
+    {
+      "question": "北美白狼是哪一年灭绝的？",
+      "actual_answer": "1911",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：在北美洲大湖区常见的暴力海上风暴现象被称为什么答案：无形飑\n问题：中国内地相声演员高峰加入北京德云社的年份是哪一年答案：2005年\n问题：美国陆军国家博物馆正式对公众开放的日期是哪一年答案：2020\n问题：文晸赫于哪一年与罗惠美结婚答案：2017",
+      "failure_type": "placeholder_answer",
+      "index": 1921
+    },
+    {
+      "question": "2022年川剧节开幕演出——《大美山川 光耀川剧》是在哪个市演出的？",
+      "actual_answer": "重庆市",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：川K是四川哪个市的车牌答案：内江市\n问题：汤川耦合是以哪位物理学家的名字命名的答案：汤川秀树\n问题：《加速世界》轻小说的作者是谁答案：川原砾\n问题：五十铃川站最初是在哪一年启用的答案：1969",
+      "failure_type": "placeholder_answer",
+      "index": 102
+    },
+    {
+      "question": "在国际音标中，清硬腭塞音用哪个字母表示？",
+      "actual_answer": "⟨c⟩",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 695
+    },
+    {
+      "question": "2018年12月，教育部办公厅关于公布哪个学院为书法中华优秀传统文化传承基地？",
+      "actual_answer": "绍兴文理学院",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：香港语言学学会在哪一年正式成立答案：1986\n问题：正教会普世宗主教圣统香港及东南亚都主教教区是在哪一年成立的答案：1996年\n问题：南京大学地学院曾培养出在1984年获得世界地学界最高荣誉Twenhofel乌拉斯坦勋章的校友是谁答案：许靖华\n问题：京口闸遗址是在哪一年被列为江苏省文物保护单位的答案：2019",
+      "failure_type": "placeholder_answer",
+      "index": 2332
+    },
+    {
+      "question": "台湾澎湖县的四眼井是哪一年建立的？",
+      "actual_answer": "1592年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2724
+    },
+    {
+      "question": "爱德华·詹纳是在哪一年发明牛痘接种术对抗天花的？",
+      "actual_answer": "1796",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2272
+    },
+    {
+      "question": "俄罗斯互联网黑名单法的生效日期是哪一年？",
+      "actual_answer": "2012",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：加拿大卫生法令的批准日期具体是在哪一年答案：1984",
+      "failure_type": "placeholder_answer",
+      "index": 2482
+    },
+    {
+      "question": "美国众议院退伍军人事务委员会成立于哪一年？",
+      "actual_answer": "1947",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1842
+    },
+    {
+      "question": "塞尔维亚国家图书馆成立于哪一年？",
+      "actual_answer": "1832",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1830
+    },
+    {
+      "question": "聂建国在哪一年被选为中国工程院院士？",
+      "actual_answer": "2013年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 794
+    },
+    {
+      "question": "国际崇她社成立于哪一年？",
+      "actual_answer": "1919",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1820
+    },
+    {
+      "question": "格拉尼特峰是美国哪个州的自然最高点？",
+      "actual_answer": "蒙大拿州（Montana）",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2001
+    },
+    {
+      "question": "清代小说《野叟曝言》的作者是谁？",
+      "actual_answer": "夏敬渠",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 144
+    },
+    {
+      "question": "西班牙画家马里亚·福尔图尼的那一幅画描绘了西班牙和摩洛哥战争的场面？",
+      "actual_answer": "《得土安战役》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2525
+    },
+    {
+      "question": "电影《辛亥双十》获得了第几届金马奖最佳剧情片？",
+      "actual_answer": "第19届",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 1330
+    },
+    {
+      "question": "东京公约是在何年生效的？",
+      "actual_answer": "1969年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：广东公共频道正式更名为广东民生频道是哪一天答案：2023年3月1日\n问题：北京万方数据股份有限公司是那一年创立的答案：2000\n问题：明重修纪公庙记刻立于哪一年答案：万历41年（1613年）",
+      "failure_type": "placeholder_answer",
+      "index": 2477
+    },
+    {
+      "question": "在中华人民共和国物权法中，无权占有不动产或者动产的权利人可以请求返还原物的条款是第几条？",
+      "actual_answer": "第34条",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 2881
+    },
+    {
+      "question": "哪本书首次提出了著名的“战争是政治的继续”观点？",
+      "actual_answer": "《战争论》",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 321
+    },
+    {
+      "question": "《匿名代码》在日本的Nintendo Switch和PlayStation 4平台上的发行日期是哪一年？",
+      "actual_answer": "2022年",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：《毁灭公爵II》是哪一年在PC平台上发布的答案：1993\n问题：《信蜂》这部漫画最初是在哪一家杂志上连载的答案：月刊少年Jump",
+      "failure_type": "placeholder_answer",
+      "index": 1261
+    },
+    {
+      "question": "深层生态学的创立者是哪位挪威哲学家？",
+      "actual_answer": "阿恩·内斯 (Arne Naess)",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：布立斯分类法总共多少个数字类答案：9\n问题：哪位法国经济学家被认为是边际效用理论与一般均衡理论的开创者，并创立了洛桑学派答案：莱昂·瓦尔拉斯（Léon Walras）\n问题：浙派篆刻是在哪一位艺术家的创立下正式成型的答案：丁敬\n问题：法国哲学家让·伊波利特毕业于哪所院校答案：巴黎高等师范学院\n问题：明代文人在园林中布置的用于品茶的独立小屋被称为什么答案：茶寮",
+      "failure_type": "placeholder_answer",
+      "index": 2414
+    },
+    {
+      "question": "《绝对绝望少女 枪弹辩驳Another Episode》是哪家公司开发的?",
+      "actual_answer": "Spike Chunsoft",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：《舞力全开2021》是哪家公司出品的游戏答案：育碧\n问题：《闪电十一人》游戏是哪家公司发行的答案：LEVEL-5\n问题：《辛普森一家》是哪个公司创作的电视节目答案：福斯广播公司\n问题：《动物朋友》游戏的初始发行商是哪家公司答案：Nexon",
+      "failure_type": "placeholder_answer",
+      "index": 1269
+    },
+    {
+      "question": "西夏文献中保存下来的佛教文本数量庞大，列出的Yevgeny Kychanov的黑城佛教文本目录中共有多少条目？",
+      "actual_answer": "768",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：海岸开尔文波在北半球时最广幅度的位置始终处于哪一侧答案：右侧\n问题：托忒蒙古文是谁根据胡都木蒙古文创建的答案：扎雅班第达\n问题：法兰西大革命之前的”法兰西旧制度”社会分为几个等级 答案：3\n问题：毛公鼎铭文是哪个朝代的代表金文答案：西周",
+      "failure_type": "placeholder_answer",
+      "index": 1760
+    },
+    {
+      "question": "卡尔·荣格的著作《心理类型》最初的德语版是在哪一年出版的？",
+      "actual_answer": "1921",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "",
+      "failure_type": "placeholder_answer",
+      "index": 416
+    },
+    {
+      "question": "使用硝酸盐作为末端电子受体的厌氧呼吸过程被称为什么作用？",
+      "actual_answer": "异化反硝化作用",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：铁锈指示剂中，铁氰化钾与哪种离子反应生成蓝色的亚铁氰化铁答案：亚铁离子Fe2+\n问题：中国最早的佛教论书是什么答案：牟子理惑论",
+      "failure_type": "placeholder_answer",
+      "index": 2631
+    },
+    {
+      "question": "哪一年江苏省人民政府、中国科学院和无锡市人民政府签署共建中国物联网研究发展中心协议？",
+      "actual_answer": "2009",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：中华人民共和国反垄断法是哪一年开始施行的答案：2008",
+      "failure_type": "placeholder_answer",
+      "index": 2291
+    },
+    {
+      "question": "太极拳第六代传人，被称为“牌位大王”的是谁？",
+      "actual_answer": "陈长兴",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：太室阙位于河南省的哪个县答案：登封县\n问题：李秉慈是吴式太极拳第几代传人答案：第四代\n问题：台湾画家李元亨首次个展所展出的大型雕塑作品名为什么答案：大时代舵手",
+      "failure_type": "placeholder_answer",
+      "index": 174
+    },
+    {
+      "question": "广州市东圃中学是在哪一年创办的？",
+      "actual_answer": "1987",
+      "predicted_answer": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "context": "问题：温州大桥是哪一年通车的答案：1998年\n问题：广州中车铁路机车车辆销售租赁有限公司是哪一年成立的答案：1997\n问题：广州塔塔身主体高多少米答案：454\n问题：俄勒冈州边界争端中哪一年签订了俄勒冈条约以解决大部分边界问题答案：1846年",
+      "failure_type": "placeholder_answer",
+      "index": 1725
+    }
+  ],
+  "error_cases": [],
+  "statistics": {
+    "total_samples": 100,
+    "successful_evaluations": 3,
+    "failed_evaluations": 97,
+    "error_evaluations": 0,
+    "success_rate": 3.0,
+    "average_accuracy": 0.08101851851851852,
+    "error_summary": {
+      "api_errors": 0,
+      "processing_errors": 0,
+      "placeholder_answers": 97
+    }
+  }
+}

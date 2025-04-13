@@ -1,0 +1,805 @@
+{
+  "results": [
+    {
+      "question": "韩国著作权委员会的成立时间是哪一年？",
+      "actual_answer": "1987",
+      "predicted_answer": "1998年",
+      "en_question": "What year is the Korean Copyright Committee established?",
+      "en_answer": "1998",
+      "accuracy": 0.2222222222222222
+    },
+    {
+      "question": "青天白日图案最初是谁设计的？",
+      "actual_answer": "陆皓东",
+      "predicted_answer": "约翰·布朗",
+      "en_question": "Who designed the blue day pattern at first?",
+      "en_answer": "John W. Brown",
+      "accuracy": 0.0
+    },
+    {
+      "question": "‘细蓝线’一词是仿照哪场战争中形容英国步兵的‘细红线’而造出的？",
+      "actual_answer": "克里米亚战争",
+      "predicted_answer": "伊拉克战争",
+      "en_question": "The term ‘dirty blue line’ was created in what war describes the ‘dirty red line’ of the British pilgrims?",
+      "en_answer": "iraq war",
+      "accuracy": 0.3484848468181818
+    },
+    {
+      "question": "佛教创始人释迦牟尼的生母是谁？",
+      "actual_answer": "摩耶夫人",
+      "predicted_answer": "佛陀",
+      "en_question": "Who is the founder of the Buddhist founder?",
+      "en_answer": "Buddha",
+      "accuracy": 0.0
+    },
+    {
+      "question": "限制理论的创始人是哪位以色列学者？",
+      "actual_answer": "艾利·高德拉特（Eliyahu M. Goldratt）",
+      "predicted_answer": "约翰·洛克",
+      "en_question": "Who was the founder of the restrictive theory?",
+      "en_answer": "John Locke",
+      "accuracy": 0.06782106669861888
+    },
+    {
+      "question": "凯莉·布鲁克首次作为模特儿开始其职业生涯是在多少岁？",
+      "actual_answer": "16",
+      "predicted_answer": "2015年5月17日",
+      "en_question": "When was Kelly Brooke starting her career as a model for the first time?",
+      "en_answer": "May 17, 2015",
+      "accuracy": 0.05555555555555555
+    },
+    {
+      "question": "中华人民共和国第十届全运会艺术体操比赛是在哪一年举行的？",
+      "actual_answer": "2005",
+      "predicted_answer": "2008年",
+      "en_question": "In which year was the 10th Full Olympics Art Gymnastics Competition of the People's Republic of China held?",
+      "en_answer": "2008",
+      "accuracy": 0.2222222222222222
+    },
+    {
+      "question": "哪一项 EAP 方法被认为是 WPA 和 WPA2 中厂商唯一需要保证的 EAP 类型？",
+      "actual_answer": "EAP-TLS",
+      "predicted_answer": "无形加密",
+      "en_question": "Which EAP method is considered the only EAP type that WPA and WPA2 manufacturers need to guarantee?",
+      "en_answer": "asymmetric encryption",
+      "accuracy": 0.0
+    },
+    {
+      "question": "《蓝皮书：统一注释体系》首次出版是在哪一年？",
+      "actual_answer": "1926",
+      "predicted_answer": "1903年",
+      "en_question": "What year was the first publication of the Blue Book: Unified Note System?",
+      "en_answer": "1903",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "普通V带的楔角是多少度？",
+      "actual_answer": "40",
+      "predicted_answer": "是",
+      "en_question": "How high is the normal V belt?",
+      "en_answer": ".",
+      "accuracy": 0.0
+    },
+    {
+      "question": "氟康唑是属于哪一类抗真菌药物？",
+      "actual_answer": "氟代三唑类",
+      "predicted_answer": "Fluoroconcine是一种用于治疗细菌感染的类固醇。",
+      "en_question": "What kind of antibacterial medication does fluoroconcine belong?",
+      "en_answer": "Fluoroconcine is a steroid that is used to treat bacterial infections.",
+      "accuracy": 0.0196078431372549
+    },
+    {
+      "question": "香港长洲的抢包山活动最早出现在哪个朝代？",
+      "actual_answer": "清",
+      "predicted_answer": "西雅图",
+      "en_question": "Which of Hong Kong’s long-country mountains were the first to appear?",
+      "en_answer": "saigon",
+      "accuracy": 0.0
+    },
+    {
+      "question": "「利基」这个术语在市场营销领域是从哪个时代开始引入的？",
+      "actual_answer": "20世纪80年代",
+      "predicted_answer": "18 到 19",
+      "en_question": "From what age was the term “Like” introduced in the marketing field?",
+      "en_answer": "18 to 19",
+      "accuracy": 0.044444444444444446
+    },
+    {
+      "question": "莫利塞克罗地亚人主要使用哪种语言？",
+      "actual_answer": "斯拉沃莫利萨诺语",
+      "predicted_answer": "阿拉伯语",
+      "en_question": "Which language are mostly used by Moroccan people?",
+      "en_answer": "arabic",
+      "accuracy": 0.1111111111111111
+    },
+    {
+      "question": "中国画家赵宗藻的作品《黄山松》在第几届挪威国际版画双年展上获得银奖？",
+      "actual_answer": "7",
+      "predicted_answer": "上海",
+      "en_question": "The work of the Chinese painter Zhao Zhao Algae, \"Yellow Shandong\", won the silver prize at the Norwegian International Edition Picture Two Year Exhibition.",
+      "en_answer": "shanghai",
+      "accuracy": 0.0
+    },
+    {
+      "question": "西风槽穿过青藏高原后会分为哪两个支槽？",
+      "actual_answer": "北支槽和南支槽",
+      "predicted_answer": "西安和台湾",
+      "en_question": "Which two shelves will be divided through the West Winds through the Tibetan Highlands?",
+      "en_answer": "saigon and taiwan",
+      "accuracy": 0.1388888873263889
+    },
+    {
+      "question": "《喜羊羊与灰太狼》是哪家公司制作的原创动画作品？",
+      "actual_answer": "广东原创动力文化传播有限公司",
+      "predicted_answer": "Tinker Bell的冒险",
+      "en_question": "What is the original animated work produced by the company?",
+      "en_answer": "The Adventures of Tinker Bell",
+      "accuracy": 0.0
+    },
+    {
+      "question": "中国民主革命家江瑔在哪一所日本大学完成了学业？",
+      "actual_answer": "明治大学",
+      "predicted_answer": "奥萨卡大学",
+      "en_question": "In which Japanese university did the Chinese Democratic Revolutionary Jiang Zheng graduate?",
+      "en_answer": "osaka university",
+      "accuracy": 0.31481481314814813
+    },
+    {
+      "question": "《寻找满月》的电视动画首播于哪一年？",
+      "actual_answer": "2002年",
+      "predicted_answer": "1903年",
+      "en_question": "Which year was the first TV animation to be broadcast?",
+      "en_answer": "1903",
+      "accuracy": 0.2999999983333334
+    },
+    {
+      "question": "磁化强度在国际单位制中的单位是什么？",
+      "actual_answer": "安培／公尺",
+      "predicted_answer": "此分類上一篇",
+      "en_question": "What is the magnetic intensity unit in the international unit system?",
+      "en_answer": "",
+      "accuracy": 0.0
+    },
+    {
+      "question": "李文忠在洪武十七年去世后被追封的封号是什么？",
+      "actual_answer": "岐阳王",
+      "predicted_answer": "台湾",
+      "en_question": "What is the seal that Li Wen忠 was trapped after Hongwu died 17 years ago?",
+      "en_answer": "taiwan",
+      "accuracy": 0.0
+    },
+    {
+      "question": "美国哲学家大卫·刘易斯出生于哪一年？",
+      "actual_answer": "1941",
+      "predicted_answer": "1892年",
+      "en_question": "What year was the American philosopher David Lewis born?",
+      "en_answer": "1892",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "根据IPCC的报告，人类活动导致2010-2019年地表温度相较于1850-1900年平均水平上升的最佳估计值是多少？",
+      "actual_answer": "1.07°C",
+      "predicted_answer": "全球温度加倍",
+      "en_question": "According to the IPCC report, what is the best estimate for human activity leading to the 2010-2019 surface temperature rising compared to the 1850-1900 average?",
+      "en_answer": "a doubling of global temperature",
+      "accuracy": 0.0
+    },
+    {
+      "question": "格罗弗算法是由哪位计算机科学家提出的？",
+      "actual_answer": "洛夫·格罗弗（Lov Grove）",
+      "predicted_answer": "约翰·D·桑德斯",
+      "en_question": "Which computer scientist proposed the Grower algorithm?",
+      "en_answer": "john d. saunders",
+      "accuracy": 0.0822222206018519
+    },
+    {
+      "question": "电视剧《从足尾来的女人》改编自哪个真实历史事件？",
+      "actual_answer": "足尾矿毒事件",
+      "predicted_answer": "一个女人已经是性奴隶了很长一段时间,已经是 de",
+      "en_question": "What is the real story of the television series \"Woman from the Foot End\"?",
+      "en_answer": "a woman who has been a sex slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for a long time and has been a slave for",
+      "accuracy": 0.0
+    },
+    {
+      "question": "1MDC是什么年份创立的？",
+      "actual_answer": "2001年",
+      "predicted_answer": "1MDC成立于1931年,是美国第一家非营利组织。",
+      "en_question": "What year was 1MDC founded?",
+      "en_answer": "1MDC was founded in 1931 as the first non-profit organization in the United States.",
+      "accuracy": 0.09206349124716555
+    },
+    {
+      "question": "1954年签订的防止石油污染海洋国际公约第几条说明了暂时从事于捕鲸事业的船舶除外？",
+      "actual_answer": "第二条",
+      "predicted_answer": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+      "en_question": "What Article of the International Ocean Convention on the Prevention of Petroleum Pollution, signed in 1954, describes, except for ships temporarily engaged in the catwalk?",
+      "en_answer": "st john s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s",
+      "accuracy": 0.0
+    },
+    {
+      "question": "明代文人在园林中布置的用于品茶的独立小屋被称为什么？",
+      "actual_answer": "茶寮",
+      "predicted_answer": "村民被剥夺了茶。",
+      "en_question": "Why is the independent cottage that the modern civilians placed in the gardens used for tea?",
+      "en_answer": "the villagers have been deprived of their tea",
+      "accuracy": 0.14999999875000003
+    },
+    {
+      "question": "第一个建立实证论思想体系并著有《实证哲学》是法国的哪一位社会学家？",
+      "actual_answer": "孔德 (Auguste Comte)",
+      "predicted_answer": "约翰·德·罗斯威尔特",
+      "en_question": "Which sociologist was the first to establish an experimental thought system and the first to write the experimental philosophy?",
+      "en_answer": "john d roosevelt",
+      "accuracy": 0.023809523809523808
+    },
+    {
+      "question": "东京航空交通管制部是迁移到所泽市的哪一年？",
+      "actual_answer": "1977",
+      "predicted_answer": "1903年",
+      "en_question": "What year was the Tokyo Air Traffic Control Department migrating to the city of Suzhou?",
+      "en_answer": "1903",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "HTTP状态码303 See Other是在哪个RFC文档中首次定义的？",
+      "actual_answer": "RFC 2616",
+      "predicted_answer": "sys.css",
+      "en_question": "HTTP status code 303 See Other was first defined in which RFC document?",
+      "en_answer": "sys.css",
+      "accuracy": 0.0
+    },
+    {
+      "question": "爱德华·伯内特·泰勒爵士首次提出泛灵论的定义是在哪一年？",
+      "actual_answer": "1871",
+      "predicted_answer": "1848年",
+      "en_question": "What was the year in which Sir Edward Bernard Taylor first proposed the definition of Pan-Ruhnity?",
+      "en_answer": "1848",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "金属射出成型技术是哪一年由美国加州的Parmatech公司首次发表的？",
+      "actual_answer": "1973",
+      "predicted_answer": "1903年",
+      "en_question": "Which year was the metal shaping technology first published by Parmatech, California, USA?",
+      "en_answer": "1903",
+      "accuracy": 0.2222222222222222
+    },
+    {
+      "question": "在1950年的比利时全国公民投票中，布鲁塞尔和瓦隆尼亚地区普遍反对哪位国王复位？",
+      "actual_answer": "利奥波德三世（Leopold III）",
+      "predicted_answer": "王查尔斯二世",
+      "en_question": "In the 1950 Belgian National Citizenship Referendum, which king was generally opposed in Brussels and the Vallonia region?",
+      "en_answer": "king charles ii",
+      "accuracy": 0.02666666666666667
+    },
+    {
+      "question": "被视为大规模人口减少计划的引导的碑文是在美国的那一组石碑群？",
+      "actual_answer": "佐治亚引导石（The Georgia Guidestones）",
+      "predicted_answer": "尼古拉",
+      "en_question": "The monuments guided by the plan to reduce the population on a massive scale were the stone monuments in the United States.",
+      "en_answer": "nevada",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在建成埃菲尔铁塔之前，世界上最高的人造建筑是什么？",
+      "actual_answer": "胡夫金字塔",
+      "predicted_answer": "圣迈克尔大教堂",
+      "en_question": "What was the world’s highest artificial building before the Eiffel Tower was built?",
+      "en_answer": "st michael s cathedral",
+      "accuracy": 0.0
+    },
+    {
+      "question": "矮仙丹属于哪个科学分类的科？",
+      "actual_answer": "茜草科",
+      "predicted_answer": "数学",
+      "en_question": "Which class of sciences belongs the Dwarfs?",
+      "en_answer": "mathematics",
+      "accuracy": 0.0
+    },
+    {
+      "question": "XQ-58女武神无人战斗航空载具的首次飞行是在哪一年进行的？",
+      "actual_answer": "2019",
+      "predicted_answer": "1939年",
+      "en_question": "Which year was the first flight of the XQ-58 Women's Divine Without a Fighting Aircraft?",
+      "en_answer": "1939",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "香港岛自明神宗万历元年（1573年）起，一直到清道光二﻿十一年（1841年）为止，该地区一直属广州府下的哪一个县管辖？",
+      "actual_answer": "新安县",
+      "predicted_answer": "台湾",
+      "en_question": "Hong Kong Island from the year 1573 to the 21st century (1841), which district has been the jurisdiction of the Guangzhou Government?",
+      "en_answer": "taiwan",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在《蜡笔小新》中，动感超人的日本配音员是谁？",
+      "actual_answer": "玄田哲章",
+      "predicted_answer": "撒玛利亚",
+      "en_question": "Who is the dynamic Superman Japanese speaker?",
+      "en_answer": "samurai",
+      "accuracy": 0.0
+    },
+    {
+      "question": "哪本著作记载了舜帝和大禹关于十二章纹的对话:“予欲观古人之象，日、月、星辰、山、龙、华虫，作会；宗彝、藻、火、粉米、黼、黻，絺绣，以五采彰施于五色，作服。”",
+      "actual_answer": "《尚书·益稷》",
+      "predicted_answer": "天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天天",
+      "en_question": "The book contains the dialogues of Chongqing and Chongqing about the twelve chapters: \"To the desire to see the old man's image, the sun, the moon, the stars, the mountains, the dragons, the cattle, the cattle, the algae, the fire, the powder, the cattle, the cattle, the cattle, the cattle, the cattle, the cattle, the cattle, the cattle, the cattle, the cattle, the cattle, the cattle",
+      "en_answer": "tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, tai chi, ta",
+      "accuracy": 0.0
+    },
+    {
+      "question": "《大清万年一统天下全图》是谁在乾隆32年（1767年）负责制订？",
+      "actual_answer": "黄千人",
+      "predicted_answer": "吉安Zhuang",
+      "en_question": "Who was responsible for the production of the Grand Chen Millennium One-Year Celebrity Picture in Sullun 32 (1677)?",
+      "en_answer": "jiang zhuang",
+      "accuracy": 0.0
+    },
+    {
+      "question": "达贤图书馈的命名缘由是来自于哪位教授？",
+      "actual_answer": "司徒达贤",
+      "predicted_answer": "吉姆·泰·朱",
+      "en_question": "The name of the Daewoo Bookback is from which professor?",
+      "en_answer": "jim tae joo",
+      "accuracy": 0.0
+    },
+    {
+      "question": "黑色金属是指铁、锰和什么？",
+      "actual_answer": "铬",
+      "predicted_answer": "放松",
+      "en_question": "Black metal indicates iron, rubber and what?",
+      "en_answer": "rust",
+      "accuracy": 0.0
+    },
+    {
+      "question": "日本大分县的南海部郡是在哪一年被废除的？",
+      "actual_answer": "2005",
+      "predicted_answer": "1903年",
+      "en_question": "In which year was the South Sea County of Japan's Grand Dutch County abolished?",
+      "en_answer": "1903",
+      "accuracy": 0.07407407407407407
+    },
+    {
+      "question": "根据《礼记·内则》，如果女子未许嫁，她应在多少岁进行笄礼？",
+      "actual_answer": "20",
+      "predicted_answer": "18",
+      "en_question": "If a woman is not allowed to marry, how old should she be?",
+      "en_answer": "18",
+      "accuracy": 0.0
+    },
+    {
+      "question": "利维·维谷斯基是哪一年因肺结核去世的？",
+      "actual_answer": "1934年",
+      "predicted_answer": "1903年",
+      "en_question": "Which year Levi Vikowski died of tuberculosis?",
+      "en_answer": "1903",
+      "accuracy": 0.4333333316666667
+    },
+    {
+      "question": "”收肺气，补气不足，升也。酸以收逆气，肺寒气逆“ 描述的哪一味中药？",
+      "actual_answer": "五味子",
+      "predicted_answer": "可爱的",
+      "en_question": "Acid to reverse gas, cold air reverse \"which taste of the drug is described?",
+      "en_answer": "bitter",
+      "accuracy": 0.0
+    },
+    {
+      "question": "香港汇丰总行大厦是哪位建筑师设计的？",
+      "actual_answer": "诺曼·福斯特（Norman Foster）",
+      "predicted_answer": "爱德华爱德华",
+      "en_question": "Which architect was designed by Hong Kong HSBC?",
+      "en_answer": "edward edwards",
+      "accuracy": 0.0
+    },
+    {
+      "question": "包尔毛兹新城是隶属于哪个匈牙利的州？",
+      "actual_answer": "豪伊杜-比豪尔州",
+      "predicted_answer": "匈牙利共和国",
+      "en_question": "Which state of Hungary belongs the New Town of Balmouth?",
+      "en_answer": "hungarian republic",
+      "accuracy": 0.0
+    },
+    {
+      "question": "广东明星创意动画有限公司的创始人是谁？",
+      "actual_answer": "黄伟明",
+      "predicted_answer": "吉安吉",
+      "en_question": "Who is the founder of Guangdong Star Creative Animation Limited?",
+      "en_answer": "yu jiang",
+      "accuracy": 0.0
+    },
+    {
+      "question": "博福特密码的发明者是谁？",
+      "actual_answer": "弗朗西斯·蒲福（Francis Beaufort）",
+      "predicted_answer": "约翰·斯科特",
+      "en_question": "Who was the inventor of the Boford Password?",
+      "en_answer": "john d. scott",
+      "accuracy": 0.08817204161075272
+    },
+    {
+      "question": "在二十八宿中，白虎象征着哪个方位的七宿？",
+      "actual_answer": "西方",
+      "predicted_answer": "西南",
+      "en_question": "In the twenty-eight, which direction symbolizes the White Tiger?",
+      "en_answer": "southwestern",
+      "accuracy": 0.16666666666666666
+    },
+    {
+      "question": "哪位日本哲学家于1974年编辑出版了《〈德意志意识形态〉手稿复原新编版》等研究著作？",
+      "actual_answer": "广松涉",
+      "predicted_answer": "尤西·索苏克",
+      "en_question": "Which Japanese philosopher published research books such as The German Ideology Manuscript Restoration New Edition in 1974?",
+      "en_answer": "yoshi otsuke",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在《淮南子》中记载的海外三十六国之一，其居民的腿长达到三丈且常用于捕鱼的国家名是什么？",
+      "actual_answer": "长股国",
+      "predicted_answer": "中国吉尼亚",
+      "en_question": "What is the name of one of the 36 countries overseas recorded in The Hunan, whose inhabitants reach the length of their legs and are often used for fishing?",
+      "en_answer": "chinese guinea",
+      "accuracy": 0.08333333333333333
+    },
+    {
+      "question": "NEXT Eleven 概念是哪个机构在2005年提出的？",
+      "actual_answer": "高盛",
+      "predicted_answer": "纳萨",
+      "en_question": "Which institution proposed the NEXT Eleven concept in 2005?",
+      "en_answer": "nasa",
+      "accuracy": 0.0
+    },
+    {
+      "question": "MBC Music更名为MBC M是在哪一年？",
+      "actual_answer": "2020",
+      "predicted_answer": "2014年",
+      "en_question": "What year was MBC Music changed to MBC M?",
+      "en_answer": "2014",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "Georgia字体的设计师是谁？",
+      "actual_answer": "马修·卡特（Matthew Carter）",
+      "predicted_answer": "詹姆斯“吉姆”史密斯",
+      "en_question": "Who is the designer of Georgia fonts?",
+      "en_answer": "James \"Jim\" Smith",
+      "accuracy": 0.0
+    },
+    {
+      "question": "影印机的发明者是谁？",
+      "actual_answer": "Chester Carlson",
+      "predicted_answer": "托马斯·杰弗森",
+      "en_question": "Who was the inventor of the printing machine?",
+      "en_answer": "Thomas Jefferson",
+      "accuracy": 0.0
+    },
+    {
+      "question": "奥基机场的IATA代码是什么？",
+      "actual_answer": "AKS",
+      "predicted_answer": "此分類上一篇",
+      "en_question": "What is the IATA code for Oki Airport?",
+      "en_answer": "",
+      "accuracy": 0.0
+    },
+    {
+      "question": "东京国际机场通常被称为什么机场？",
+      "actual_answer": "羽田机场",
+      "predicted_answer": "台湾",
+      "en_question": "Tokyo International Airport is commonly called Why Airport?",
+      "en_answer": "taiwan",
+      "accuracy": 0.0
+    },
+    {
+      "question": "2003年欧盟根据哪个指令成立了废电子电气设备的回收系统？",
+      "actual_answer": "WEEE指令",
+      "predicted_answer": "埃克特",
+      "en_question": "Which EU Directive established a recycling system for waste electrical equipment in 2003?",
+      "en_answer": "ect",
+      "accuracy": 0.0
+    },
+    {
+      "question": "间苯胺黄在分析化学中可用作什么类型的指示剂？",
+      "actual_answer": "酸碱指示剂",
+      "predicted_answer": "Interbenzamine 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是 benzoic 是",
+      "en_question": "What type of indicator can interbenzamine be used in analytical chemistry?",
+      "en_answer": "Interbenzamine is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that is a benzoic acid that",
+      "accuracy": 0.0
+    },
+    {
+      "question": "萨守坚是南宋道教哪一脉的代表人物？",
+      "actual_answer": "神霄派",
+      "predicted_answer": "一个苏丹",
+      "en_question": "Which representative of the Sun Sun is the Sun Sun Sun?",
+      "en_answer": "a saturn",
+      "accuracy": 0.0
+    },
+    {
+      "question": "西迁节主要是哪个少数民族的节日？",
+      "actual_answer": "锡伯族",
+      "predicted_answer": "此分類上一篇",
+      "en_question": "Which festival is mainly a minority festival?",
+      "en_answer": "",
+      "accuracy": 0.0
+    },
+    {
+      "question": "“三辰旂旗，昭其明也”出自哪本书？",
+      "actual_answer": "《左传·桓公二年》",
+      "predicted_answer": "十年三年",
+      "en_question": "“Three Years and Three Years and Three Years and Three Years and Three Years and Three Years and Three Years and Three Years and Three Years.”",
+      "en_answer": "ten years and three years",
+      "accuracy": 0.05128205128205129
+    },
+    {
+      "question": "《侠盗猎车手》首个版本是在哪一年最先发布的?",
+      "actual_answer": "1997",
+      "predicted_answer": "1903年",
+      "en_question": "Which year was the first edition of The Pirate Hunter?",
+      "en_answer": "1903",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "龙门冰室的创办人是谁？",
+      "actual_answer": "张俊杰",
+      "predicted_answer": "约翰·麦卡特尼",
+      "en_question": "Who is the founder of the Lemon Ice Room?",
+      "en_answer": "john mccartney",
+      "accuracy": 0.0
+    },
+    {
+      "question": "南阿塞拜疆人民族觉醒运动成立于哪一年？",
+      "actual_answer": "2002",
+      "predicted_answer": "1912年",
+      "en_question": "In which year was the People's Awakening Movement of South Azerbaijan established?",
+      "en_answer": "1912",
+      "accuracy": 0.07407407407407407
+    },
+    {
+      "question": "维克多·路易斯是哪一国籍的记者？",
+      "actual_answer": "苏联",
+      "predicted_answer": "法语",
+      "en_question": "Which nationality is Victor Louis a journalist?",
+      "en_answer": "french",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在苏共中央主席团上试图罢免尼基塔·赫鲁晓夫，但此计划失败的团体称为什么？",
+      "actual_answer": "反党集团",
+      "predicted_answer": "他是个逃亡者。",
+      "en_question": "The Soviet Central Chairman attempted to withdraw Nikita Khrushchev, but the group that failed this plan said why?",
+      "en_answer": "he was a fugitive",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在《辛普森一家》中，纳尔逊·芒茨的配音是谁？",
+      "actual_answer": "南希·卡特赖特（Nancy Campbell Cartwright）",
+      "predicted_answer": "约翰·麦卡特尼",
+      "en_question": "Who is the voice of Nelson Mants in the Simpson Family?",
+      "en_answer": "john mccartney",
+      "accuracy": 0.14401858151236105
+    },
+    {
+      "question": "1992年大众电影百花奖最佳故事片是哪个电影？",
+      "actual_answer": "《过年》",
+      "predicted_answer": "星期六之夜的梦想",
+      "en_question": "Which film was awarded the 1992 People's Film Award for Best Story?",
+      "en_answer": "saturday night s dream",
+      "accuracy": 0.0
+    },
+    {
+      "question": "北美白狼是哪一年灭绝的？",
+      "actual_answer": "1911",
+      "predicted_answer": "1890年",
+      "en_question": "What year was the North American White Wolf destroyed?",
+      "en_answer": "1890",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "2022年川剧节开幕演出——《大美山川 光耀川剧》是在哪个市演出的？",
+      "actual_answer": "重庆市",
+      "predicted_answer": "圣地亚哥",
+      "en_question": "The opening show of the 2022 Kawasaki Theatre Festival – Which city is the Grand Meiji Theatre?",
+      "en_answer": "san diego",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在国际音标中，清硬腭塞音用哪个字母表示？",
+      "actual_answer": "⟨c⟩",
+      "predicted_answer": "e",
+      "en_question": "In the international soundmark, what letter is expressed?",
+      "en_answer": "e",
+      "accuracy": 0.0
+    },
+    {
+      "question": "2018年12月，教育部办公厅关于公布哪个学院为书法中华优秀传统文化传承基地？",
+      "actual_answer": "绍兴文理学院",
+      "predicted_answer": "台湾大学",
+      "en_question": "In December 2018, the Office of the Ministry of Education on the publication of which college is the excellent Chinese traditional cultural heritage base for Book Law?",
+      "en_answer": "taiwan university",
+      "accuracy": 0.06666666666666667
+    },
+    {
+      "question": "台湾澎湖县的四眼井是哪一年建立的？",
+      "actual_answer": "1592年",
+      "predicted_answer": "1908年",
+      "en_question": "In which year was the four-eight hole of Taiwan Hang Lake County built?",
+      "en_answer": "1908",
+      "accuracy": 0.36666666500000006
+    },
+    {
+      "question": "爱德华·詹纳是在哪一年发明牛痘接种术对抗天花的？",
+      "actual_answer": "1796",
+      "predicted_answer": "1897年",
+      "en_question": "In which year was Edward Jenner who invented the vaccine against the flower?",
+      "en_answer": "1897",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "俄罗斯互联网黑名单法的生效日期是哪一年？",
+      "actual_answer": "2012",
+      "predicted_answer": "1924年",
+      "en_question": "What year is the date of entry into force of the Russian Internet Black List Act?",
+      "en_answer": "1924",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "美国众议院退伍军人事务委员会成立于哪一年？",
+      "actual_answer": "1947",
+      "predicted_answer": "1898年",
+      "en_question": "In what year was the House of Representatives Veteran Affairs Committee established?",
+      "en_answer": "1898",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "塞尔维亚国家图书馆成立于哪一年？",
+      "actual_answer": "1832",
+      "predicted_answer": "1991年",
+      "en_question": "What year was the National Library of Serbia established?",
+      "en_answer": "1991",
+      "accuracy": 0.07407407407407407
+    },
+    {
+      "question": "聂建国在哪一年被选为中国工程院院士？",
+      "actual_answer": "2013年",
+      "predicted_answer": "1924年",
+      "en_question": "In which year was the National Academy of Engineering chosen as an academic?",
+      "en_answer": "1924",
+      "accuracy": 0.2999999983333334
+    },
+    {
+      "question": "国际崇她社成立于哪一年？",
+      "actual_answer": "1919",
+      "predicted_answer": "1892年",
+      "en_question": "In which year was the International Society founded?",
+      "en_answer": "1892",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "格拉尼特峰是美国哪个州的自然最高点？",
+      "actual_answer": "蒙大拿州（Montana）",
+      "predicted_answer": "亚利桑那",
+      "en_question": "Which state is the highest natural point in the United States?",
+      "en_answer": "arizona",
+      "accuracy": 0.0
+    },
+    {
+      "question": "清代小说《野叟曝言》的作者是谁？",
+      "actual_answer": "夏敬渠",
+      "predicted_answer": "爱德华·斯科特",
+      "en_question": "Who is the author of the novel \"Wildren's Disclosure\"?",
+      "en_answer": "edward h. scott",
+      "accuracy": 0.0
+    },
+    {
+      "question": "西班牙画家马里亚·福尔图尼的那一幅画描绘了西班牙和摩洛哥战争的场面？",
+      "actual_answer": "《得土安战役》",
+      "predicted_answer": "撒哈拉",
+      "en_question": "The painting by the Spanish painter Maria Fultuni depicts the scenes of the Spanish-Morocco war?",
+      "en_answer": "sahara",
+      "accuracy": 0.0
+    },
+    {
+      "question": "电影《辛亥双十》获得了第几届金马奖最佳剧情片？",
+      "actual_answer": "第19届",
+      "predicted_answer": "桑德拉·布洛克",
+      "en_question": "The movie \"Sinhai Twelve\" won the first Golden Horse Award for Best Screenplay?",
+      "en_answer": "sandra bullock",
+      "accuracy": 0.0
+    },
+    {
+      "question": "东京公约是在何年生效的？",
+      "actual_answer": "1969年",
+      "predicted_answer": "东京公约于1921年至1922年生效。",
+      "en_question": "What year was the Tokyo Convention in force?",
+      "en_answer": "The Tokyo Convention was in force from 1921 to 1922.",
+      "accuracy": 0.13888888796296298
+    },
+    {
+      "question": "在中华人民共和国物权法中，无权占有不动产或者动产的权利人可以请求返还原物的条款是第几条？",
+      "actual_answer": "第34条",
+      "predicted_answer": "台湾",
+      "en_question": "In the Property Rights Act of the People's Republic of China, the holder of the right to possess the property or the property may request the return of the original property.",
+      "en_answer": "taiwan",
+      "accuracy": 0.0
+    },
+    {
+      "question": "哪本书首次提出了著名的“战争是政治的继续”观点？",
+      "actual_answer": "《战争论》",
+      "predicted_answer": "现在的Apocalypse",
+      "en_question": "Which book first presented the famous view of “war is the continuation of politics”?",
+      "en_answer": "apocalypse now",
+      "accuracy": 0.0
+    },
+    {
+      "question": "《匿名代码》在日本的Nintendo Switch和PlayStation 4平台上的发行日期是哪一年？",
+      "actual_answer": "2022年",
+      "predicted_answer": "2014年",
+      "en_question": "What year is the Anonymous Code released on the Nintendo Switch and PlayStation 4 platforms in Japan?",
+      "en_answer": "2014",
+      "accuracy": 0.36666666500000006
+    },
+    {
+      "question": "深层生态学的创立者是哪位挪威哲学家？",
+      "actual_answer": "阿恩·内斯 (Arne Naess)",
+      "predicted_answer": "爱德华 Strd",
+      "en_question": "Which Norwegian philosopher was the founder of deep ecology?",
+      "en_answer": "edvard strd",
+      "accuracy": 0.05128205128205129
+    },
+    {
+      "question": "《绝对绝望少女 枪弹辩驳Another Episode》是哪家公司开发的?",
+      "actual_answer": "Spike Chunsoft",
+      "predicted_answer": "三星",
+      "en_question": "Which company was developed by The Absolute Desperate Girl Shooting Against Another Episode?",
+      "en_answer": "samsung",
+      "accuracy": 0.0
+    },
+    {
+      "question": "西夏文献中保存下来的佛教文本数量庞大，列出的Yevgeny Kychanov的黑城佛教文本目录中共有多少条目？",
+      "actual_answer": "768",
+      "predicted_answer": "十万",
+      "en_question": "The number of Buddhist texts preserved in the Sisha literature is huge, and how many articles are listed in the Black City Buddhist text directory of Yevgeny Kychanov?",
+      "en_answer": "ten thousand",
+      "accuracy": 0.0
+    },
+    {
+      "question": "卡尔·荣格的著作《心理类型》最初的德语版是在哪一年出版的？",
+      "actual_answer": "1921",
+      "predicted_answer": "1903年",
+      "en_question": "What year was the original German edition of Carl Jung’s book “Psychological Types”?",
+      "en_answer": "1903",
+      "accuracy": 0.14814814814814814
+    },
+    {
+      "question": "使用硝酸盐作为末端电子受体的厌氧呼吸过程被称为什么作用？",
+      "actual_answer": "异化反硝化作用",
+      "predicted_answer": "氮是一种化学化合物的代谢物。",
+      "en_question": "The use of nitrate as an end-electron receptor is called anoxydant breathing process why does it work?",
+      "en_answer": "nitrate is a metabolite of a chemical compound",
+      "accuracy": 0.06349206349206349
+    },
+    {
+      "question": "哪一年江苏省人民政府、中国科学院和无锡市人民政府签署共建中国物联网研究发展中心协议？",
+      "actual_answer": "2009",
+      "predicted_answer": "2008年",
+      "en_question": "In which year the People's Government of Jiangsu Province, the Chinese Academy of Sciences and the People's Government of Nusai City signed an agreement on joint construction of China's IoT Research Development Center?",
+      "en_answer": "2008",
+      "accuracy": 0.2222222222222222
+    },
+    {
+      "question": "太极拳第六代传人，被称为“牌位大王”的是谁？",
+      "actual_answer": "陈长兴",
+      "predicted_answer": "塔吉克",
+      "en_question": "Who is the sixth generation of Tai Chi, known as the \"Cards King\"?",
+      "en_answer": "tai chi",
+      "accuracy": 0.0
+    },
+    {
+      "question": "广州市东圃中学是在哪一年创办的？",
+      "actual_answer": "1987",
+      "predicted_answer": "1908年",
+      "en_question": "In which year was the Guangzhou City High School established?",
+      "en_answer": "1908",
+      "accuracy": 0.2222222222222222
+    }
+  ],
+  "average_accuracy": 0.07354218730716415
+}

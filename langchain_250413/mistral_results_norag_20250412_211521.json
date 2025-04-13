@@ -1,0 +1,605 @@
+{
+  "results": [
+    {
+      "question": "韩国著作权委员会的成立时间是哪一年？",
+      "actual_answer": "1987",
+      "predicted_answer": "韩国著作权委员会于1957年成立。",
+      "accuracy": 0.09523809523809523
+    },
+    {
+      "question": "青天白日图案最初是谁设计的？",
+      "actual_answer": "陆皓东",
+      "predicted_answer": "青天白日图案（Sunsymbol）最初是由瑞典设计师 Victor Perham Noring 在 1937 年创作的，而且它是由瑞典航空公司使用。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "‘细蓝线’一词是仿照哪场战争中形容英国步兵的‘细红线’而造出的？",
+      "actual_answer": "克里米亚战争",
+      "predicted_answer": "“细蓝线”这个词汇是模仿世界大战期间英国军队用来描述“细红线”（Red Line Infantry）的。细红线指的是英国步兵队伍，由于戴着红色Uniform Cap，因此被称为细红线。而细蓝线则是使用蓝色Uniform Cap的队伍，是其后来的变种。",
+      "accuracy": 0.0050890585241730275
+    },
+    {
+      "question": "佛教创始人释迦牟尼的生母是谁？",
+      "actual_answer": "摩耶夫人",
+      "predicted_answer": "释迦牟尼的生母是亚卻利，也称作 мая德伽母。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "限制理论的创始人是哪位以色列学者？",
+      "actual_answer": "艾利·高德拉特（Eliyahu M. Goldratt）",
+      "predicted_answer": "限制理论（Restricted Boltzmann Machine）的创始人是伊tzhak  Pereira (Igor Aizenman, Paul Smolensky) 等以色列学者。",
+      "accuracy": 0.07634660277872203
+    },
+    {
+      "question": "凯莉·布鲁克首次作为模特儿开始其职业生涯是在多少岁？",
+      "actual_answer": "16",
+      "predicted_answer": "凯莉·布鲁克在 15 岁开始作为模特儿从事工作。",
+      "accuracy": 0.025641025641025644
+    },
+    {
+      "question": "中华人民共和国第十届全运会艺术体操比赛是在哪一年举行的？",
+      "actual_answer": "2005",
+      "predicted_answer": "中华人民共和国第十届全国运动会（北京2001） artistic gymnastics competition was held in 2001.",
+      "accuracy": 0.025974025974025972
+    },
+    {
+      "question": "哪一项 EAP 方法被认为是 WPA 和 WPA2 中厂商唯一需要保证的 EAP 类型？",
+      "actual_answer": "EAP-TLS",
+      "predicted_answer": "在 WPA (Wi-Fi Protected Access) 和 WPA2 (Wi-Fi Protected Access 2) 中，LEAP（Lightweight Extensible Authentication Protocol）被认为是厂商必须保证的 EAP 类型。LEAP是Cisco公司开发的一种EAP协议，用于在802.1x验证过程中实现加密通信。LEAP在WPA-Enterprise和WPA2-Enterprise模式下使用，在这些模式下，需要服务器和客户端共同支持LEAP协议。",
+      "accuracy": 0.025357408080848968
+    },
+    {
+      "question": "《蓝皮书：统一注释体系》首次出版是在哪一年？",
+      "actual_answer": "1926",
+      "predicted_answer": "《蓝皮书：统一注释体系》首次出版是1967年。",
+      "accuracy": 0.07407407407407407
+    },
+    {
+      "question": "普通V带的楔角是多少度？",
+      "actual_answer": "40",
+      "predicted_answer": "普通V带的楔角为90度。",
+      "accuracy": 0.047619047619047616
+    },
+    {
+      "question": "氟康唑是属于哪一类抗真菌药物？",
+      "actual_answer": "氟代三唑类",
+      "predicted_answer": "氟康唑属于铂类（Cephalosporins）的抗真菌药物。",
+      "accuracy": 0.10476190363945581
+    },
+    {
+      "question": "香港长洲的抢包山活动最早出现在哪个朝代？",
+      "actual_answer": "清",
+      "predicted_answer": "抢包山活动最早出现于明朝期。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "「利基」这个术语在市场营销领域是从哪个时代开始引入的？",
+      "actual_answer": "20世纪80年代",
+      "predicted_answer": "该术语 \"利基\"（Base of the Pyramid）首次被引入是在2004年，由于耶鲁大学的 Professor C.K. Prahalad 在书籍《The Fortune at the Bottom of the Pyramid》中的发表。",
+      "accuracy": 0.020202020202020204
+    },
+    {
+      "question": "莫利塞克罗地亚人主要使用哪种语言？",
+      "actual_answer": "斯拉沃莫利萨诺语",
+      "predicted_answer": "莫利塞克罗地亚人主要使用斯洛伐克语言。",
+      "accuracy": 0.07407407407407407
+    },
+    {
+      "question": "中国画家赵宗藻的作品《黄山松》在第几届挪威国际版画双年展上获得银奖？",
+      "actual_answer": "7",
+      "predicted_answer": "赵宗藻的作品《黄山松》在第七届挪威国际版画双年展上获得了银奖。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "西风槽穿过青藏高原后会分为哪两个支槽？",
+      "actual_answer": "北支槽和南支槽",
+      "predicted_answer": "西风槽经過青藏高原後，會分為雅克薩（Yaksha）和拉孜（Rasalhague）支槽。",
+      "accuracy": 0.07999999893333336
+    },
+    {
+      "question": "《喜羊羊与灰太狼》是哪家公司制作的原创动画作品？",
+      "actual_answer": "广东原创动力文化传播有限公司",
+      "predicted_answer": "《喜羊羊与灰太狼》是德国电视公司ZDF和法国电视公司France Télévisions共同制作的原创动画作品。",
+      "accuracy": 0.047619046672108895
+    },
+    {
+      "question": "中国民主革命家江瑔在哪一所日本大学完成了学业？",
+      "actual_answer": "明治大学",
+      "predicted_answer": "江瑔在京都大学（Kyoto University）完成了学业。",
+      "accuracy": 0.03809523809523809
+    },
+    {
+      "question": "《寻找满月》的电视动画首播于哪一年？",
+      "actual_answer": "2002年",
+      "predicted_answer": "《寻找满月》的电视动画首播于2016年。",
+      "accuracy": 0.1276190468027211
+    },
+    {
+      "question": "磁化强度在国际单位制中的单位是什么？",
+      "actual_answer": "安培／公尺",
+      "predicted_answer": "磁化强度（Magnetization）在国际单位制中的单位是 А/m（Ampere per meter）。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "李文忠在洪武十七年去世后被追封的封号是什么？",
+      "actual_answer": "岐阳王",
+      "predicted_answer": "李文忠在洪武十七年（1402年）去世后，被追封为蜀州王。这个王位并不属于皇太子之下的贵辈宦官称号，而是属于南朝末期的一种自由王国之君。",
+      "accuracy": 0.009523809523809523
+    },
+    {
+      "question": "美国哲学家大卫·刘易斯出生于哪一年？",
+      "actual_answer": "1941",
+      "predicted_answer": "大卫·刘易斯出生于1824年。",
+      "accuracy": 0.07017543859649122
+    },
+    {
+      "question": "根据IPCC的报告，人类活动导致2010-2019年地表温度相较于1850-1900年平均水平上升的最佳估计值是多少？",
+      "actual_answer": "1.07°C",
+      "predicted_answer": "根据IPCC（联合国气候科学程序报告）的数据，2010-2019年地表温度相较于1850-1900年平均水平上升了约0.85摄氏度。",
+      "accuracy": 0.009259259259259259
+    },
+    {
+      "question": "格罗弗算法是由哪位计算机科学家提出的？",
+      "actual_answer": "洛夫·格罗弗（Lov Grove）",
+      "predicted_answer": "格罗弗算法是由克里斯托夫·冯·葛洛夫（Christof C. Fetter）等人提出的，他们在1986年首次发表了该算法。",
+      "accuracy": 0.12243012140747818
+    },
+    {
+      "question": "电视剧《从足尾来的女人》改编自哪个真实历史事件？",
+      "actual_answer": "足尾矿毒事件",
+      "predicted_answer": "电视剧《从足尾来的女人》改编自一个名为《伊利诺伊州十六年战争》的真实历史事件，发生于美国的伊利诺伊州，在16年战争期间。",
+      "accuracy": 0.05892255826412274
+    },
+    {
+      "question": "1MDC是什么年份创立的？",
+      "actual_answer": "2001年",
+      "predicted_answer": "1MDC (OneMind Dog Club) 于2014年创立。",
+      "accuracy": 0.12145748901069242
+    },
+    {
+      "question": "1954年签订的防止石油污染海洋国际公约第几条说明了暂时从事于捕鲸事业的船舶除外？",
+      "actual_answer": "第二条",
+      "predicted_answer": "第19条是 1954 年签署的 \"防止石油污染海洋\" 国际公约中规定，捕鱼和捕鲸船舶在限期内排放油料或废物时不受该公约的约束。",
+      "accuracy": 0.020202020202020204
+    },
+    {
+      "question": "明代文人在园林中布置的用于品茶的独立小屋被称为什么？",
+      "actual_answer": "茶寮",
+      "predicted_answer": "明代文人在园林中布置的用于品茶的独立小屋被称为茶居 (Chájū) 或茶亭 (Cháting)。",
+      "accuracy": 0.013333333333333334
+    },
+    {
+      "question": "第一个建立实证论思想体系并著有《实证哲学》是法国的哪一位社会学家？",
+      "actual_answer": "孔德 (Auguste Comte)",
+      "predicted_answer": "这个建立实证论思想体系并著有《实证哲学》的是法国的社交哲学家和大师，叫作Auguste Comte。他被称为第一个社会学科学家。",
+      "accuracy": 0.14172709216744764
+    },
+    {
+      "question": "东京航空交通管制部是迁移到所泽市的哪一年？",
+      "actual_answer": "1977",
+      "predicted_answer": "东京航空交通管制部是在2010年底迁移到所泽市的。",
+      "accuracy": 0.022988505747126436
+    },
+    {
+      "question": "HTTP状态码303 See Other是在哪个RFC文档中首次定义的？",
+      "actual_answer": "RFC 2616",
+      "predicted_answer": "HTTP状态码 303 \"See Other\" 首次定义于 RFC7231 中。",
+      "accuracy": 0.06944444444444445
+    },
+    {
+      "question": "爱德华·伯内特·泰勒爵士首次提出泛灵论的定义是在哪一年？",
+      "actual_answer": "1871",
+      "predicted_answer": "爱德华·伯内特·泰勒爵士首次提出泛灵论的定义是在1859年。",
+      "accuracy": 0.0392156862745098
+    },
+    {
+      "question": "金属射出成型技术是哪一年由美国加州的Parmatech公司首次发表的？",
+      "actual_answer": "1973",
+      "predicted_answer": "金属形成技术，即我们所说的3D打印技术，是由美国加州的Parmatec公司（后来更名为 3D Systems）在1984年首次发表的。",
+      "accuracy": 0.018779342723004695
+    },
+    {
+      "question": "在1950年的比利时全国公民投票中，布鲁塞尔和瓦隆尼亚地区普遍反对哪位国王复位？",
+      "actual_answer": "利奥波德三世（Leopold III）",
+      "predicted_answer": "在1950年比利时全国公民投票中，布鲁塞尔和瓦隆尼亚地区普遍反对了诺兰德国王复位。",
+      "accuracy": 0.022222222222222223
+    },
+    {
+      "question": "被视为大规模人口减少计划的引导的碑文是在美国的那一组石碑群？",
+      "actual_answer": "佐治亚引导石（The Georgia Guidestones）",
+      "predicted_answer": "该碑文被认为是在美国西部的四角石碑（Four Corners Monument）周围的石碑群，包括美国新墨西哥边境、Colorado、劳俄米和亚利桑那州之间的地区。然而，这个区域没有明确的关联与大规模人口减少计划。",
+      "accuracy": 0.06728778386276252
+    },
+    {
+      "question": "在建成埃菲尔铁塔之前，世界上最高的人造建筑是什么？",
+      "actual_answer": "胡夫金字塔",
+      "predicted_answer": "在建成埃菲尔铁塔之前，世界上最高的人造建筑是以色列首都雅各博亚的圣基茨基勒之家。它于1929年完工，高度达到112米，比埃菲尔铁塔低了大约30米。",
+      "accuracy": 0.008547008547008546
+    },
+    {
+      "question": "矮仙丹属于哪个科学分类的科？",
+      "actual_answer": "茜草科",
+      "predicted_answer": "矮仙丹不是一种生物，而是一种药材或化學品，因此它不属于任何生物学科分类。",
+      "accuracy": 0.017094017094017092
+    },
+    {
+      "question": "XQ-58女武神无人战斗航空载具的首次飞行是在哪一年进行的？",
+      "actual_answer": "2019",
+      "predicted_answer": "2017 年，XQ-58女武神无人战斗航空载具第一次飞行了。",
+      "accuracy": 0.05882352941176471
+    },
+    {
+      "question": "香港岛自明神宗万历元年（1573年）起，一直到清道光二﻿十一年（1841年）为止，该地区一直属广州府下的哪一个县管辖？",
+      "actual_answer": "新安县",
+      "predicted_answer": "从明明神宗万历元年（1573年）到清代东皇太极二十一年（1841年），香港岛属于广州府下的珠江 delta 地区的西湾县（Xi Wan Xian）管辖。",
+      "accuracy": 0.008438818565400843
+    },
+    {
+      "question": "在《蜡笔小新》中，动感超人的日本配音员是谁？",
+      "actual_answer": "玄田哲章",
+      "predicted_answer": "在《蜡笔小新》中，动感超人的日语配音员是奥兹伯特·伊吾斯基（Otaki Ishibashi）。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "哪本著作记载了舜帝和大禹关于十二章纹的对话:“予欲观古人之象，日、月、星辰、山、龙、华虫，作会；宗彝、藻、火、粉米、黼、黻，絺绣，以五采彰施于五色，作服。”",
+      "actual_answer": "《尚书·益稷》",
+      "predicted_answer": "该对话来自《 шао чжу ан》（尚书）的第一章《舜记》中。舜帝和大禹在此处讨论制作“十二章纹”，即绣有日、月、星辰、山、龙、华虫等图案的五色重叠的服装。",
+      "accuracy": 0.06326581595983673
+    },
+    {
+      "question": "《大清万年一统天下全图》是谁在乾隆32年（1767年）负责制订？",
+      "actual_answer": "黄千人",
+      "predicted_answer": "《大清万年一统天下全图》在乾隆32年，也就是1767年，由清代史学家姜楞负责制订。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "达贤图书馈的命名缘由是来自于哪位教授？",
+      "actual_answer": "司徒达贤",
+      "predicted_answer": "达贤图书馈命名缘由来自于中国知名数学家、逻辑学家、物理学家和哲学家马上东方（Masahiko Fujiwara）。他曾在中国大陆工作，并在中国文化和科学界有着深远的影响力。",
+      "accuracy": 0.03031869048815176
+    },
+    {
+      "question": "黑色金属是指铁、锰和什么？",
+      "actual_answer": "铬",
+      "predicted_answer": "黑色金属还包括铅和镁等元素。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "日本大分县的南海部郡是在哪一年被废除的？",
+      "actual_answer": "2005",
+      "predicted_answer": "日本大分县的南海部郡于1954年被废除了。",
+      "accuracy": 0.02666666666666667
+    },
+    {
+      "question": "根据《礼记·内则》，如果女子未许嫁，她应在多少岁进行笄礼？",
+      "actual_answer": "20",
+      "predicted_answer": "根据《礼记·内则》，女儿应在十五岁时举行笄礼。这一习俗是表达女儿成年的象征。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "利维·维谷斯基是哪一年因肺结核去世的？",
+      "actual_answer": "1934年",
+      "predicted_answer": "利维·维谷斯基于1996年20日因肺结核而离世。",
+      "accuracy": 0.1165845640441004
+    },
+    {
+      "question": "”收肺气，补气不足，升也。酸以收逆气，肺寒气逆“ 描述的哪一味中药？",
+      "actual_answer": "五味子",
+      "predicted_answer": "描述的是姜末（Gan Jiang Po）这种中药味道。它主要用于治病及调中，可以补气不足，收肺气、升也，还能收逆气，抗酸性强，适合肺寒气逆等症状。",
+      "accuracy": 0.008771929824561403
+    },
+    {
+      "question": "香港汇丰总行大厦是哪位建筑师设计的？",
+      "actual_answer": "诺曼·福斯特（Norman Foster）",
+      "predicted_answer": "香港华夫顿总行大厦是 Norman Foster 设计的。",
+      "accuracy": 0.2517647042675894
+    },
+    {
+      "question": "包尔毛兹新城是隶属于哪个匈牙利的州？",
+      "actual_answer": "豪伊杜-比豪尔州",
+      "predicted_answer": "包尔毛兹新城属于匈牙利的西藏加布罗凡斯州。",
+      "accuracy": 0.04597701149425287
+    },
+    {
+      "question": "广东明星创意动画有限公司的创始人是谁？",
+      "actual_answer": "黄伟明",
+      "predicted_answer": "广东明星创意动画有限公司的创始人是陈小春.",
+      "accuracy": 0.027777777777777776
+    },
+    {
+      "question": "博福特密码的发明者是谁？",
+      "actual_answer": "弗朗西斯·蒲福（Francis Beaufort）",
+      "predicted_answer": "博福特密码的发明者是布拉德琼·莱斯（Bruce Schneier）。",
+      "accuracy": 0.14740626460405287
+    },
+    {
+      "question": "在二十八宿中，白虎象征着哪个方位的七宿？",
+      "actual_answer": "西方",
+      "predicted_answer": "白虎在二十八宿中，对应于东方的第一组七宿，即东方白虎宿。",
+      "accuracy": 0.022222222222222223
+    },
+    {
+      "question": "哪位日本哲学家于1974年编辑出版了《〈德意志意识形态〉手稿复原新编版》等研究著作？",
+      "actual_answer": "广松涉",
+      "predicted_answer": "那位日本哲学家是康明之子。他于1974年发表了《《德意志意识形态》手稿复原新编版》等相关研究著作。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在《淮南子》中记载的海外三十六国之一，其居民的腿长达到三丈且常用于捕鱼的国家名是什么？",
+      "actual_answer": "长股国",
+      "predicted_answer": "答：该国名为\"琉球\"（Okinawa）。请注意，当时记载时已被中国称为\"九州\"，但现在属于日本鹤咯群岛。",
+      "accuracy": 0.012121212121212121
+    },
+    {
+      "question": "NEXT Eleven 概念是哪个机构在2005年提出的？",
+      "actual_answer": "高盛",
+      "predicted_answer": "next eleven 概念是由 Goldman Sachs 机构于2005年提出的。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "MBC Music更名为MBC M是在哪一年？",
+      "actual_answer": "2020",
+      "predicted_answer": "根据查询结果，MBC Music更名为MBC M 是在2013年发生的。",
+      "accuracy": 0.03333333333333333
+    },
+    {
+      "question": "Georgia字体的设计师是谁？",
+      "actual_answer": "马修·卡特（Matthew Carter）",
+      "predicted_answer": "Georgia 字体的设计者是英国设计师 Victor Lusty Cowan 和 Sol Hess 合作设计的。",
+      "accuracy": 0.04273504273504273
+    },
+    {
+      "question": "影印机的发明者是谁？",
+      "actual_answer": "Chester Carlson",
+      "predicted_answer": "影印机的发明者是美国人布洛克·斯米特（Chester Carlton），他在1938年首次提出了影印技术的原理。",
+      "accuracy": 0.15444390438009747
+    },
+    {
+      "question": "奥基机场的IATA代码是什么？",
+      "actual_answer": "AKS",
+      "predicted_answer": "奥克兰国际机场（Oakland International Airport）的 IATA 代码是 OAK。",
+      "accuracy": 0.023809523809523808
+    },
+    {
+      "question": "东京国际机场通常被称为什么机场？",
+      "actual_answer": "羽田机场",
+      "predicted_answer": "东京国际机场通常被称为 Narita 机场。",
+      "accuracy": 0.05128205128205129
+    },
+    {
+      "question": "2003年欧盟根据哪个指令成立了废电子电气设备的回收系统？",
+      "actual_answer": "WEEE指令",
+      "predicted_answer": "2003年，欧盟根据《电气和电子产品毒物、有害物质与其安全使用、运输、回收和处置的指示（WEEE）直接口》成立了废旧电子电气设备的回收系统。",
+      "accuracy": 0.05175438564824562
+    },
+    {
+      "question": "间苯胺黄在分析化学中可用作什么类型的指示剂？",
+      "actual_answer": "酸碱指示剂",
+      "predicted_answer": "间苯胺黄在分析化学中主要用于指示酸性。它可以反应与酸基组成成青色的复合物，因此可用于检测、定量或识别酸。另外，它还可以作为溶解度指示剂使用，因为它在水中不溶解，但在酸性溶液中能够溶解。",
+      "accuracy": 0.038985661586313135
+    },
+    {
+      "question": "萨守坚是南宋道教哪一脉的代表人物？",
+      "actual_answer": "神霄派",
+      "predicted_answer": "萨守坚（1178年-1263年）不属于南宋朝任何一脉的代表人物，他是一个著名的中国 Zen 师席。他生活在东林寺和金雀寺，是东林寺第七代宗师，是中国 Zen 史上一位重要的人物。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "西迁节主要是哪个少数民族的节日？",
+      "actual_answer": "锡伯族",
+      "predicted_answer": "西迁节是蒙古族的节日。它以遵从伟大先贤 Genghis Khan 重返故土作为根据，在中国各地被广泛庆祝。",
+      "accuracy": 0.011904761904761904
+    },
+    {
+      "question": "“三辰旂旗，昭其明也”出自哪本书？",
+      "actual_answer": "《左传·桓公二年》",
+      "predicted_answer": "此句言语来自《诗集·三辰》。",
+      "accuracy": 0.22028985347246377
+    },
+    {
+      "question": "《侠盗猎车手》首个版本是在哪一年最先发布的?",
+      "actual_answer": "1997",
+      "predicted_answer": "《侠盗猎车手》（Grand Theft Auto）的第一个版本是1997年首次发行的。",
+      "accuracy": 1.0
+    },
+    {
+      "question": "龙门冰室的创办人是谁？",
+      "actual_answer": "张俊杰",
+      "predicted_answer": "龙门冰室的创办人是马克·埃尔登（Mark Eichenbaum）。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "南阿塞拜疆人民族觉醒运动成立于哪一年？",
+      "actual_answer": "2002",
+      "predicted_answer": "南亚塞拜疆人民觉醒运动成立于1963年。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "维克多·路易斯是哪一国籍的记者？",
+      "actual_answer": "苏联",
+      "predicted_answer": "维克多·路易斯是美国人，他出生于美国加利福尼亚州。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在苏共中央主席团上试图罢免尼基塔·赫鲁晓夫，但此计划失败的团体称为什么？",
+      "actual_answer": "反党集团",
+      "predicted_answer": "这个计划失败的团体被称为“反夕克阵线”或“反赫鲁晓夫势力”。它由苏联政府内部政治异议人士和军事领导人组成，在苏共中央主席团上携带了对尼кита·赫鲁晓夫的反对意见。最终，这一势力失败了，因为它们无法控制苏联政府和军事机构，而且被赫鲁晓夫所支持者集团更加坚定。",
+      "accuracy": 0.015037593984962405
+    },
+    {
+      "question": "在《辛普森一家》中，纳尔逊·芒茨的配音是谁？",
+      "actual_answer": "南希·卡特赖特（Nancy Campbell Cartwright）",
+      "predicted_answer": "在《辛普森一家》（The Simpsons）中，纳尔逊·芒茨的配音是由扬立斯·希恩（Harry Shearer）演出的。",
+      "accuracy": 0.11788384006092352
+    },
+    {
+      "question": "1992年大众电影百花奖最佳故事片是哪个电影？",
+      "actual_answer": "《过年》",
+      "predicted_answer": "1992年的大众电影百花奖最佳故事片是《艾丽abeth》（Thelma & Louise）。",
+      "accuracy": 0.08727272648760331
+    },
+    {
+      "question": "北美白狼是哪一年灭绝的？",
+      "actual_answer": "1911",
+      "predicted_answer": "北美白狼在1987年被列为全世界第一个全部受到保护的濒危物种，直至2021年底才确认该地区还存在一只生活在自然状态下的北美白狼。因此，不能说它们被灭绝了，但是其数量非常少，处于极其危险的边缘。",
+      "accuracy": 0.02
+    },
+    {
+      "question": "2022年川剧节开幕演出——《大美山川 光耀川剧》是在哪个市演出的？",
+      "actual_answer": "重庆市",
+      "predicted_answer": "2022年川剧节开幕演出《大美山川 光耀川剧》是在成都演出的。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "在国际音标中，清硬腭塞音用哪个字母表示？",
+      "actual_answer": "⟨c⟩",
+      "predicted_answer": "在国际音标中，清硬腭塞音（zhong3 yang2 zhi1 sheng4）使用字母 \"zh\" 来表示。例如，中文单词 \"张\"（Zhāng）的音标为 /t͡sʰɑŋ/，其中 \"zh\" 代表清硬腭塞声。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "2018年12月，教育部办公厅关于公布哪个学院为书法中华优秀传统文化传承基地？",
+      "actual_answer": "绍兴文理学院",
+      "predicted_answer": "2018年12月，教育部办公厅公布的是，清华大学书法研究所为书法中华优秀传统文化传承基地。",
+      "accuracy": 0.013071895424836602
+    },
+    {
+      "question": "台湾澎湖县的四眼井是哪一年建立的？",
+      "actual_answer": "1592年",
+      "predicted_answer": "四眼井在1956年建立。",
+      "accuracy": 0.2009803909068628
+    },
+    {
+      "question": "爱德华·詹纳是在哪一年发明牛痘接种术对抗天花的？",
+      "actual_answer": "1796",
+      "predicted_answer": "爱德华·詹纳于1796年开始研究如何控制天花病，最终在1798年成功发明了用牛皮皮肤埋注疫苗，实现对牛痘的接种。这个方法后来被广泛应用于对天花病进行防治。",
+      "accuracy": 1.0
+    },
+    {
+      "question": "俄罗斯互联网黑名单法的生效日期是哪一年？",
+      "actual_answer": "2012",
+      "predicted_answer": "俄罗斯互联网黑名单法生效日期是2017年9月1日。",
+      "accuracy": 0.06896551724137931
+    },
+    {
+      "question": "美国众议院退伍军人事务委员会成立于哪一年？",
+      "actual_answer": "1947",
+      "predicted_answer": "美国众议院退伍军人事务委员会（House Committee on Veterans' Affairs）成立于1935年。",
+      "accuracy": 0.020512820512820513
+    },
+    {
+      "question": "塞尔维亚国家图书馆成立于哪一年？",
+      "actual_answer": "1832",
+      "predicted_answer": "塞尔维亚国家图书馆成立于1832年。",
+      "accuracy": 1.0
+    },
+    {
+      "question": "聂建国在哪一年被选为中国工程院院士？",
+      "actual_answer": "2013年",
+      "predicted_answer": "聂建国在2014年被选为中国工程院院士。",
+      "accuracy": 0.16727272628099174
+    },
+    {
+      "question": "国际崇她社成立于哪一年？",
+      "actual_answer": "1919",
+      "predicted_answer": "国际崇她社成立于1908年。",
+      "accuracy": 0.07407407407407407
+    },
+    {
+      "question": "格拉尼特峰是美国哪个州的自然最高点？",
+      "actual_answer": "蒙大拿州（Montana）",
+      "predicted_answer": "格拉尼特峰是阿拉斯加州的自然最高点。",
+      "accuracy": 0.02150537634408602
+    },
+    {
+      "question": "清代小说《野叟曝言》的作者是谁？",
+      "actual_answer": "夏敬渠",
+      "predicted_answer": "《野叟曝言》的作者是明清两代合著，其中包括明代刘颐、龚祁、宋玉等，清代主要由赵孟 和 王籍编辑完成。",
+      "accuracy": 0.0
+    },
+    {
+      "question": "西班牙画家马里亚·福尔图尼的那一幅画描绘了西班牙和摩洛哥战争的场面？",
+      "actual_answer": "《得土安战役》",
+      "predicted_answer": "是的，马里亚·福尔图尼创作了名为《马略比特和卢卡罗的会议》（Majas de la Rumba en un baile）的一幅画，这幅画描绘了西班牙和摩洛哥战争的一场舞会，这场舞会是在两个地区之间的关系发生变化时发生的。然而，这幅画并不是由福尔图尼描述战争场景的原型作品。",
+      "accuracy": 0.026201646059575215
+    },
+    {
+      "question": "电影《辛亥双十》获得了第几届金马奖最佳剧情片？",
+      "actual_answer": "第19届",
+      "predicted_answer": "电影《辛亥双十》在第63届金马奖上获得了最佳剧情片的奖项。",
+      "accuracy": 0.10389610307977737
+    },
+    {
+      "question": "东京公约是在何年生效的？",
+      "actual_answer": "1969年",
+      "predicted_answer": "东京公约于1967年生效。",
+      "accuracy": 0.22222222106995884
+    },
+    {
+      "question": "在中华人民共和国物权法中，无权占有不动产或者动产的权利人可以请求返还原物的条款是第几条？",
+      "actual_answer": "第34条",
+      "predicted_answer": "在中华人民共和国物权法（2019年版）中，无权占有不动产或者动产的权利人可以请求返还原物的条款位于第56条。",
+      "accuracy": 0.05450500497900893
+    },
+    {
+      "question": "哪本书首次提出了著名的“战争是政治的继续”观点？",
+      "actual_answer": "《战争论》",
+      "predicted_answer": "该观点在《战争的性质和目的》一书中首次提出，作者为卡尔·赫斯特（Karl von Clausewitz）。",
+      "accuracy": 0.0935960584755454
+    },
+    {
+      "question": "《匿名代码》在日本的Nintendo Switch和PlayStation 4平台上的发行日期是哪一年？",
+      "actual_answer": "2022年",
+      "predicted_answer": "《匿名代码》在日本的Nintendo Switch和PlayStation 4平台上，发行年份分别为2019年（Switch版）和2018年（PS4版）。",
+      "accuracy": 0.0434378625908744
+    },
+    {
+      "question": "深层生态学的创立者是哪位挪威哲学家？",
+      "actual_answer": "阿恩·内斯 (Arne Naess)",
+      "predicted_answer": "深层生态学的创始人是辛格·萨茨（Arne Naess）这位挪威哲学家。",
+      "accuracy": 1.0
+    },
+    {
+      "question": "《绝对绝望少女 枪弹辩驳Another Episode》是哪家公司开发的?",
+      "actual_answer": "Spike Chunsoft",
+      "predicted_answer": "《绝对绝望少女 枪弹辩驳 Another Episode》 由 Square Enix 公司开发。",
+      "accuracy": 0.042328042328042326
+    },
+    {
+      "question": "西夏文献中保存下来的佛教文本数量庞大，列出的Yevgeny Kychanov的黑城佛教文本目录中共有多少条目？",
+      "actual_answer": "768",
+      "predicted_answer": "在Yevgeny Kychanov的黑城佛教文本目录中共有850条目。",
+      "accuracy": 0.017543859649122806
+    },
+    {
+      "question": "卡尔·荣格的著作《心理类型》最初的德语版是在哪一年出版的？",
+      "actual_answer": "1921",
+      "predicted_answer": "卡尔·荣格的著作《心理类型》（Psychological Types）最初的德语版本称为《 Psychologische Typen》，它于1921年首次发行。",
+      "accuracy": 1.0
+    },
+    {
+      "question": "使用硝酸盐作为末端电子受体的厌氧呼吸过程被称为什么作用？",
+      "actual_answer": "异化反硝化作用",
+      "predicted_answer": "硝酸盐被用作末端电子受体在氏反应中，它参与细胞内的反应并生成能量存储物质（如 ATP）。这个过程称为玻璃纤维呼吸。因此，硝酸盐在厌氧呼吸中起到了关键作用。",
+      "accuracy": 0.023809523809523808
+    },
+    {
+      "question": "哪一年江苏省人民政府、中国科学院和无锡市人民政府签署共建中国物联网研究发展中心协议？",
+      "actual_answer": "2009",
+      "predicted_answer": "江苏省人民政府、中国科学院和无锡市人民政府在2015年签署共建中国物联网研究发展中心协议。",
+      "accuracy": 0.027210884353741496
+    },
+    {
+      "question": "太极拳第六代传人，被称为“牌位大王”的是谁？",
+      "actual_answer": "陈长兴",
+      "predicted_answer": "太极拳的第六代传人，被称为“牌位大王”的是郭少康。",
+      "accuracy": 0.072108843537414969
+    },
+    {
+      "question": "广州市东圃中学是在哪一年创办的？",
+      "actual_answer": "1987",
+      "predicted_answer": "广州市东圃中学是1958年建立的。",
+      "accuracy": 0.09523809523809523
+    }
+  ],
+  "average_accuracy": 0.120686087781818
+}
